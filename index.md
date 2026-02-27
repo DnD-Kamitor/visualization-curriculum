@@ -1,27 +1,113 @@
-# Introduction {.unnumbered}
+# The Price of Dawn {.unnumbered}
 
-A data visualization curriculum of interactive notebooks, using [Vega-Lite](https://vega.github.io/vega-lite/) and [Altair](https://altair-viz.github.io/). This book contains a series of Python-based Jupyter notebooks, a corresponding set of JavaScript notebooks are available online on [Observable](https://observablehq.com/@uwdata/data-visualization-curriculum).
+> *"The hardest choices aren't between good and evil. They're between two goods — or two evils."*
 
-::: {.callout-note appearance="simple"}
-This book was originally created using [Jupyter Book](https://jupyterbook.org/) and published at <https://uwdata.github.io/visualization-curriculum/>. This site is a port of the original book source to the [Quarto](https://quarto.org) publishing system in order to provide an example of it's use.
-:::
+**The Price of Dawn** is a D&D 5e campaign for 3–5 players designed around moral and ethical dilemmas. It runs 3–5 sessions and is built to be replayed, because no two tables will make the same choices.
 
-## Getting Started
+---
 
-The visualization curriculum can be used either online or on your local computer. You can view and interact with the plots directly in this Jupyter Book. If you want to modify the code, you have a few different options:
+## The Premise
 
-- To read JavaScript notebooks online using [Observable](https://observablehq.com/), navigate to the "Observable" page above and click the corresponding notebook.
-- To read Python notebooks online using [Colab](https://colab.research.google.com/), click the corresponding section in this book, hover over the little rocket ship at the top of the page, and select "Colab" from the menu.
-- To read Python notebooks locally, follow the instructions below.
+The city of Varenhold has lived in magical twilight for fifty years. The sun vanished the night a grand ritual failed — and has never returned. Crops grow slowly in the half-light. Children have never seen a sunrise. Despair festers beneath the surface of a city that refuses to admit it is dying.
 
-### Local Installation
+The players are hired to find and complete the original ritual. What they discover, partway through their investigation, is that the ritual requires the death of ten specific people — the **Dawnborn**, adults who were born on the night the sun vanished, and who have spent their lives becoming the city's most beloved protectors.
 
-1. [Install Altair and a notebook environment](https://altair-viz.github.io/getting_started/installation.html). The most recent versions of these notebooks use _Altair version 4_.
-2. Download the notebooks from the [releases page](https://github.com/uwdata/visualization-curriculum/releases). Typically you will want to use the most recent release.  (If you wish to use notebooks for Altair version 3, download the [Altair v3.2 release](https://github.com/uwdata/visualization-curriculum/releases/tag/altair-v3).)
-3. Open the notebooks in your local notebook environment. For example, if you have JupyterLab installed (v1.0 or higher is required), run `jupyter lab` within the directory containing the notebooks.
+Everything that follows is a question, not a puzzle. There is no correct answer.
 
-Depending on your programming environment (and whether or not you have a live internet connection), you may want to specify a particular [renderer](https://altair-viz.github.io/user_guide/display_frontends.html) for Altair.
+---
 
-## Credits
+## How to Use This Book
 
-Developed at the University of Washington by Jeffrey Heer, Dominik Moritz, Jake VanderPlas, and Brock Craft. Thanks to the [UW Interactive Data Lab](https://idl.cs.washington.edu/) and Arvind Satyanarayan for their valuable input and feedback! Thanks also to the students of [UW CSE512 Spring 2019](https://courses.cs.washington.edu/courses/cse512/19sp/), the first group to use these notebooks within an integrated course curriculum.
+This book is written for the **Game Master (GM)**. Players should not read it.
+
+The structure:
+
+- **Setting** — The world of Varenhold, its factions, and how it changes over time
+- **NPCs** — Detailed profiles for every major character using the OGAS system
+- **Sessions 1–5** — Scene-by-scene session guides with branching paths
+- **GM Toolkit** — AI tools, encounter tables, prep checklists, and tracking sheets
+
+### Running the Campaign Short
+
+You can run this in **3 sessions** by compressing:
+
+- Session 1 as written
+- Sessions 2+3 merged (discovery + first alternative)
+- Sessions 4+5 merged (climax + resolution)
+
+For 5 sessions, run each chapter as written, letting NPC relationships breathe.
+
+---
+
+## Design Philosophy
+
+### Guy Sclanders' Method: Players First
+
+Every scene in this book is designed around **player agency and meaning**, not plot delivery. The GM's job is not to tell a story — it is to make the story *matter* to the players.
+
+Key principles used throughout:
+
+**1. The Scene Must Have Stakes**
+Every scene gives the players something to gain, something to lose, or a choice that matters. If a scene does neither, cut it.
+
+**2. Let NPCs Be Right**
+Every major NPC in this campaign has a defensible position. The Cult Leader isn't wrong that people are suffering. The Chancellor isn't wrong that ten lives versus thousands is a utilitarian math problem. The Dawnborn aren't wrong to fight for their lives. Give every NPC their best argument.
+
+**3. Failure Is Interesting**
+This campaign has no "correct" path. A failed persuasion roll doesn't close a door — it opens a different one. Track consequences, not successes.
+
+---
+
+## The Three-Clue Rule
+
+Every mystery in this campaign follows the **Three-Clue Rule**: any important discovery has at least three separate paths to reach it.
+
+If the players miss the journal, they find the blood on the stones. If they miss the stones, the Archivist lets something slip. No single failure should wall off the story.
+
+When you prep a session, ask yourself: *"If the players skip the obvious clue, how else could they learn this?"* Write two backup paths for each important revelation.
+
+---
+
+## The OGAS System
+
+Every key NPC in this campaign is built using the **OGAS framework** for memorable, consistent characterization:
+
+| Letter | Stands For | What It Means |
+|--------|------------|---------------|
+| **O** | Occupation / Role | What they do in the world |
+| **G** | Goal | What they want most right now |
+| **A** | Attitude | How they see the players (and why) |
+| **S** | Secret | What they're hiding (and the cost of discovery) |
+
+Each NPC profile in the [NPCs chapter](npcs.md) includes a full OGAS block plus:
+
+- **Personality in 3 words** — for quick recall at the table
+- **Voice/accent note** — for roleplaying or AI voice synthesis
+- **Sample dialogue** — their actual voice in action
+- **Attitude shift table** — how they change based on player choices
+
+---
+
+## The Moral Dilemma Engine
+
+Every session is built around a central question. These questions don't have answers in the text — they have consequences.
+
+| Session | Dilemma |
+|---------|---------|
+| 1 — Into the Dark | Is hope worth chasing when it might cost everything? |
+| 2 — The Weight of Light | Do you have the right to decide someone else's fate, even to save thousands? |
+| 3 — Lesser Evils | Is a "lesser evil" still evil? How far do you compromise? |
+| 4 — The Breaking Point | What do you owe to people who choose to sacrifice themselves? |
+| 5 — The Price of Dawn | When the "right" choice and the "good" choice are different, which do you make? |
+
+At the end of each session, ask the players one question directly. Not rhetorically — actually pause, and ask. Their answers don't change the game mechanics, but they tell you what scenes to emphasize next session.
+
+---
+
+## A Note on Endings
+
+This campaign has no happy ending. It has *hopeful* endings and *honest* endings and *pyrrhic* endings, but the sun does not return without cost.
+
+The goal is not to make players feel good. The goal is to make them feel *something real* — and to talk about it after the dice are put away.
+
+That's the price of dawn.

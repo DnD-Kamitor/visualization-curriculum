@@ -1,30 +1,32 @@
 project:
   type: book
   output-dir: docs
-  
+
 book:
-  title: Visualization Curriculum
-  author: Jeffrey Heer, Dominik Moritz, Jake VanderPlas, and Brock Craft
-  repo-url: https://github.com/uwdata/visualization-curriculum
+  title: "The Price of Dawn"
+  subtitle: "A D&D 5e Campaign of Moral Reckoning"
+  author: Dungeon Master
+  repo-url: https://github.com/DnD-Kamitor/visualization-curriculum
   repo-branch: master
   repo-actions: [issue]
-  sharing: [twitter, facebook]
   chapters:
     - index.md
-    - part: Curriculum
+    - part: "The World"
       chapters:
-        - altair_introduction.ipynb
-        - altair_marks_encoding.ipynb
-        - altair_data_transformation.ipynb
-        - altair_scales_axes_legends.ipynb
-        - altair_view_composition.ipynb
-        - altair_interaction.ipynb
-        - altair_cartographic.ipynb
-    - part: Support
+        - setting.md
+        - npcs.md
+    - part: "The Sessions"
       chapters:
-        - altair_debugging.ipynb
+        - session1.md
+        - session2.md
+        - session3.md
+        - session4.md
+        - session5.md
+    - part: "GM Toolkit"
+      chapters:
+        - ai-tools.md
+        - gm-tools.md
 
 format:
   html:
     theme: cosmo
-
