@@ -31,6 +31,7 @@ book:
         - session5.md
     - part: "GM Toolkit"
       chapters:
+        - running-the-campaign.md
         - ai-tools.md
         - gm-tools.md
 

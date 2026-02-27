@@ -1,113 +1,83 @@
 # The Price of Dawn {.unnumbered}
 
-> *"The hardest choices aren't between good and evil. They're between two goods - or two evils."*
+---
 
-**The Price of Dawn** is a D&D 5e campaign for 3–5 players designed around moral and ethical dilemmas. It runs 3–5 sessions and is built to be replayed, because no two tables will make the same choices.
+## The City at the Edge of Morning
+
+There is a city that has not seen the sun in fifty years.
+
+Not darkness - the light is still there, sourceless and amber, suspended somewhere between dusk and a dawn that never arrives. You can read by it. You can work by it. Children play in it and call it normal, because they have never known anything else. The lanterns in the Dawnhalls burn day and night not because the streets are dark, but because people need to feel something warm.
+
+The city is called Varenhold.
+
+It was, once, the most important crossroads in the Graymere Reaches - the place where three trade roads met a river and a hundred cultures passed each other on their way to somewhere else. Scholars came from every corner of the region to study at the Spire. Merchants came to profit from everyone else's movement. Artists came for the quality of the light, which was warm, and golden, and they painted it endlessly in the confident expectation that it would still be there tomorrow.
+
+Then the ritual failed.
+
+No one remembers exactly what they expected. The Ritual of Eternal Dawn was meant to do something magnificent - something to do with solar amplification, with stored light, with a magical surplus that would let the city thrive through any winter. The Archmagister was brilliant. The preparations were years in the making. The night it was performed, half the city gathered in the plaza called the Ashring to watch.
+
+What happened next depends on who you ask. The official record says the ritual failed catastrophically, that Archmagister Corven died in the backlash, that the magic inverted and scattered into the sky. What everyone agrees on is the result: the sun stopped rising. The sky settled into the amber haze that has been there ever since. And in the hours after the ritual, ten children were born across the city - premature, impossibly healthy, glowing faintly in the dark.
+
+They were called the Dawnborn.
 
 ---
 
-## The Premise
+## Fifty Years
 
-The city of Varenhold has lived in magical twilight for fifty years. The sun vanished the night a grand ritual failed - and has never returned. Crops grow slowly in the half-light. Children have never seen a sunrise. Despair festers beneath the surface of a city that refuses to admit it is dying.
+The city did not die.
 
-The players are hired to find and complete the original ritual. What they discover, partway through their investigation, is that the ritual requires the death of ten specific people - the **Dawnborn**, adults who were born on the night the sun vanished, and who have spent their lives becoming the city's most beloved protectors.
+This is the thing people outside Varenhold never quite understand. They hear about the twilight, about the failing crops and the grey sickness and the slow exodus of half the population, and they picture ruins. What they find, if they come, is a city that is still alive - battered, stubborn, smaller than it used to be, but breathing.
 
-Everything that follows is a question, not a puzzle. There is no correct answer.
+The Dawnhalls rose in the first decade: communal buildings where food was shared and neighbors who barely knew each other learned to need each other. The amber workshops adapted from luxury to necessity, turning out the lanterns that every household in the Reaches now considers essential. The healers developed new treatments for the grey sickness - not cures, but management, enough to keep the sick functional and the living present. The scholars at the Spire wrote papers and ran experiments and argued about the mechanism of the failure for fifty years without reaching consensus, but they stayed.
 
----
+The people who remained in Varenhold call this *staying*. It is their highest compliment and their private mythology. When a Varenholder says someone is "a stayer," they mean something that has no clean translation: a person who understood the cost and chose to be here anyway.
 
-## How to Use This Book
+The Dawnborn are stayers in the way that a cathedral is a building. Technically accurate. Entirely insufficient. They grew up alongside the city's grief and became part of its architecture. Sera Voss, who pulls the injured out of rubble and stands between crowds and the things that frighten them. Tomas Areth, who mediates the disputes that the courts can't resolve and remembers every word of every conversation he has ever had. Lira Anwick, who has spent twenty years developing treatments for the grey sickness and who works in the care houses in the Lowmark where no one else will go.
 
-This book is written for the **Game Master (GM)**. Players should not read it.
-
-The structure:
-
-- **Setting** - The world of Varenhold, its factions, and how it changes over time
-- **NPCs** - Detailed profiles for every major character using the OGAS system
-- **Sessions 1–5** - Scene-by-scene session guides with branching paths
-- **GM Toolkit** - AI tools, encounter tables, prep checklists, and tracking sheets
-
-### Running the Campaign Short
-
-You can run this in **3 sessions** by compressing:
-
-- Session 1 as written
-- Sessions 2+3 merged (discovery + first alternative)
-- Sessions 4+5 merged (climax + resolution)
-
-For 5 sessions, run each chapter as written, letting NPC relationships breathe.
+The city loves them. It has never quite been able to explain why the love feels so urgent, or so tinged with something that is not quite grief - not yet.
 
 ---
 
-## Design Philosophy
+## The Shape of the Problem
 
-### Guy Sclanders' Method: Players First
+Fifty years is a long time.
 
-Every scene in this book is designed around **player agency and meaning**, not plot delivery. The GM's job is not to tell a story - it is to make the story *matter* to the players.
+The grey sickness rate has been climbing for a decade. The harvests are failing faster now, as if the soil has finally exhausted its patience with the absent sun. The trade partners are rerouting their caravans and will not say so directly. The children born since the twilight began are adults now - they have never known a sunrise, and a growing number of them are beginning to think they never will.
 
-Key principles used throughout:
+Chancellor Mira Ostenveld has kept the city alive through eleven years of careful governance and difficult negotiation. She is running out of tools. She is considering options she would not have considered three years ago.
 
-**1. The Scene Must Have Stakes**
-Every scene gives the players something to gain, something to lose, or a choice that matters. If a scene does neither, cut it.
+The Restorers have been saying for decades that the ritual can be completed. They are patient people, the Restorers, and grief-driven and not wrong - they have simply never had access to the original ritual documents. Neither has anyone else.
 
-**2. Let NPCs Be Right**
-Every major NPC in this campaign has a defensible position. The Cult Leader isn't wrong that people are suffering. The Chancellor isn't wrong that ten lives versus thousands is a utilitarian math problem. The Dawnborn aren't wrong to fight for their lives. Give every NPC their best argument.
+The Archivist has had access for eleven years. He has not told anyone. He has reasons. The reasons will not survive inspection.
 
-**3. Failure Is Interesting**
-This campaign has no "correct" path. A failed persuasion roll doesn't close a door - it opens a different one. Track consequences, not successes.
+And somewhere at the edge of all this - in the Restorers' compound near the Ashfen Gate, in a small room surrounded by documents he has spent years accumulating - a man named Brother Edoran knows the cost of the ritual, and knows that three of the Dawnborn have quietly told him they would pay it willingly, and has been waiting for someone to come who was willing to face the full truth.
 
----
-
-## The Three-Clue Rule
-
-Every mystery in this campaign follows the **Three-Clue Rule**: any important discovery has at least three separate paths to reach it.
-
-If the players miss the journal, they find the blood on the stones. If they miss the stones, the Archivist lets something slip. No single failure should wall off the story.
-
-When you prep a session, ask yourself: *"If the players skip the obvious clue, how else could they learn this?"* Write two backup paths for each important revelation.
+That is where you come in.
 
 ---
 
-## The OGAS System
+## What Kind of Story This Is
 
-Every key NPC in this campaign is built using the **OGAS framework** for memorable, consistent characterization:
+This is not a story about defeating a monster.
 
-| Letter | Stands For | What It Means |
-|--------|------------|---------------|
-| **O** | Occupation / Role | What they do in the world |
-| **G** | Goal | What they want most right now |
-| **A** | Attitude | How they see the players (and why) |
-| **S** | Secret | What they're hiding (and the cost of discovery) |
+The antagonists in this story want reasonable things. They want the sun back. They want their children to be healthy. They want the city they love to survive. The conflict here is not between good and evil - it is between goods that cannot coexist, and between the people willing to pay different prices to get what they want.
 
-Each NPC profile in the [NPCs chapter](npcs.md) includes a full OGAS block plus:
+You will investigate. You will discover something that cannot be undiscovered. You will meet people who matter - who will matter to you, specifically, in ways you will not be able to fully explain. And then you will have to decide what to do with what you know.
 
-- **Personality in 3 words** - for quick recall at the table
-- **Voice/accent note** - for roleplaying or AI voice synthesis
-- **Sample dialogue** - their actual voice in action
-- **Attitude shift table** - how they change based on player choices
+There is no correct answer. There is no ending where no one is hurt. There is no clever trick that resolves the dilemma without cost. What there is, at the end of this story, is a question you will be answering for yourself long after the dice are put away.
+
+That is the price of dawn.
 
 ---
 
-## The Moral Dilemma Engine
+## Before You Begin
 
-Every session is built around a central question. These questions don't have answers in the text - they have consequences.
+If you are a **player**, the next section of this book - the Player's Guide - is written for you. It will tell you everything you need to know to create a character and arrive at the first session ready. Read it freely; everything in it is yours.
 
-| Session | Dilemma |
-|---------|---------|
-| 1 - Into the Dark | Is hope worth chasing when it might cost everything? |
-| 2 - The Weight of Light | Do you have the right to decide someone else's fate, even to save thousands? |
-| 3 - Lesser Evils | Is a "lesser evil" still evil? How far do you compromise? |
-| 4 - The Breaking Point | What do you owe to people who choose to sacrifice themselves? |
-| 5 - The Price of Dawn | When the "right" choice and the "good" choice are different, which do you make? |
+If you are the **Game Master**, the Player's Guide is also worth reading - your players will likely have read it, and knowing what they know shapes how you run the first session. The GM-facing material begins with *The World* section and continues through the Sessions and GM Toolkit.
 
-At the end of each session, ask the players one question directly. Not rhetorically - actually pause, and ask. Their answers don't change the game mechanics, but they tell you what scenes to emphasize next session.
+One request for everyone at the table, player and GM alike:
 
----
+*Take the Dawnborn seriously.* They are not plot devices. They are not symbols. They are people who have been treated as symbols for fifty years and are tired of it. The campaign is only as good as the moment when that stops being abstract.
 
-## A Note on Endings
-
-This campaign has no happy ending. It has *hopeful* endings and *honest* endings and *pyrrhic* endings, but the sun does not return without cost.
-
-The goal is not to make players feel good. The goal is to make them feel *something real* - and to talk about it after the dice are put away.
-
-That's the price of dawn.
+Everything else follows from there.
