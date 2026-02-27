@@ -381,6 +381,21 @@ She has not told them everything she suspects.
 
 **Key attitude:** The Council is sympathetic to players who are discreet and bring results. They turn hostile if the players create public instability, expose their complicity in covering up the ritual's cost, or challenge their authority openly.
 
+**Named Council Members:**
+
+| Name | Position | Stance on Ritual |
+|------|----------|-----------------|
+| **Chancellor Mira Ostenveld** | Head of Council; executive authority | Pragmatist: wants a solution, prefers consent, willing to force if necessary |
+| **Councillor Davan Ashby** | Commerce and trade; former merchant | Pure pragmatist: "restore the sun and the city survives, everything else is detail" |
+| **Councillor Preva Solm** | Health and welfare; former healer | Moralist: adamant that Dawnborn lives cannot be sacrificed; has been arguing this for six years |
+| **Councillor Ren Holt** | Civil order and guard | Pragmatist-adjacent: worried about Desperate and Reckoning more than the ritual; will vote for whatever ends the instability fastest |
+| **Councillor Maret Lonn** | Education and archive oversight | Unknown quantity: former Spire Scholar, keeps her own counsel, the swing vote the players can influence |
+
+**How the Council Makes Decisions:**
+Simple majority vote, with the Chancellor casting a tie-breaker. For the final ritual vote, a Council quorum is required (all 5 present). Players who build relationships with individual councillors can shift the vote - Preva Solm is the most moveable toward protecting the Dawnborn; Davan Ashby is the hardest to shift from pro-ritual.
+
+**Getting an Audience:** Standard petitions go through the Chancellor's aide (a harried young man named Torsten). Players who have earned trust can request direct meetings. Emergency access is available to players who can demonstrate immediate danger to the city.
+
 ---
 
 ### The Dawnborn
@@ -389,9 +404,32 @@ She has not told them everything she suspects.
 
 The Dawnborn are not a formal faction - they're ten individuals who share an origin and have become a symbol. They are not unified in how they feel about their situation. When the truth about the ritual comes out, they will splinter.
 
-See [NPCs](npcs.md) for individual profiles. The three most prominent Dawnborn - **Sera Voss**, **Tomas Areth**, and **Lira Cain** - are featured in every session.
+See [NPCs](npcs.md) for individual profiles. The three most prominent Dawnborn - **Sera Voss**, **Tomas Areth**, and **Lira Anwick** - are featured in every session.
 
 **Key attitude:** Initially friendly and collegial. They are used to being trusted. When they learn the truth, their reactions diverge radically based on their characters.
+
+**Internal Dynamics:**
+
+The ten Dawnborn have known each other their entire lives and have a complex social web. Key relationships:
+
+| Relationship | Details |
+|-------------|---------|
+| Sera and Tomas | Old friends, mutual respect; they disagree about almost everything intellectually and trust each other completely |
+| Lira and Ysel | Longest friendship among the ten; the rift when Ysel chooses to be willing is the emotional core of Sessions 4-5 |
+| Davin and Aldric | The "older brothers" dynamic; Davin is calm and accepting, Aldric is angry and protective; they manage each other |
+| Petra and Lira | Fractured friendship (argument three years ago); Petra's anonymous support payments to Lira's daughter are unacknowledged by both |
+| Cormac and Nin | Unlikely friendship between the dock master and the reformed criminal; they drink together, they have each other's backs |
+| Tomas and Orya | Academic partnership; Orya's cartography and Tomas's records have been used together for years; she's the first one he told about his suspicions |
+
+**Faction Session State Table:**
+
+| Session | Dawnborn Faction State |
+|---------|----------------------|
+| 1 | Unaware; open and trusting; players can build connections freely |
+| 2 | Learning the rumor; some are hearing fragments; Tomas is putting things together |
+| 3 | Aware of the basic truth; individual reactions beginning to diverge |
+| 4 | Publicly split; The Willing/Unwilling/Undecided division is visible to the city |
+| 5 | Each Dawnborn in their final position; no further movement without specific player action |
 
 ---
 
@@ -405,6 +443,30 @@ The cult has cells throughout the city, particularly in the Lowmark. Some member
 
 **Key attitude:** Cautiously cooperative with players who seem to prioritize restoration. Hostile to players openly allied with the Dawnborn. Brother Edoran is willing to negotiate if approached in good faith.
 
+**Internal Factions:**
+
+| Faction | Leader | Position | Size |
+|---------|--------|----------|------|
+| **The Grieving** | Edoran (de facto) | Restoration through consent; horrified by violence | ~60% of membership |
+| **The Idealists** | Sister Mave, 40s, former teacher | Restoration is moral imperative; consent is ideal but not required | ~30% |
+| **The Fanatics** | Jaret (from Session 1) | Immediate action, forced if necessary; Dawnborn have already consented implicitly | ~10% |
+
+**Edoran's control problem:** He can moderate the Grieving. He has partial influence over the Idealists. He cannot control the Fanatics, and they know it. If Edoran is arrested, compromised, or killed, the Fanatics take organizational leadership within 48 hours.
+
+**Membership:** Joining the Restorers requires attending three public services and completing a private conversation with any senior member. The vetting is not rigorous - the Restorers are not primarily concerned about infiltration. They're a grief movement, and grief is easy to fake credibly.
+
+**How to join as a player:** Any player who attends services, expresses sympathy with the restoration goal (not necessarily the method), and passes a simple DC 12 Deception or DC 14 Persuasion check will be admitted within a week of in-game time.
+
+**Faction Session State Table:**
+
+| Session | Restorer State (if players ignore them) |
+|---------|----------------------------------------|
+| 1 | Active but legal; pamphlets, services, petition to Council |
+| 2 | Growing; Edoran has made contact with a willing Dawnborn (Ysel) privately |
+| 3 | Tense; the Fanatics are pushing for action; Edoran is holding them |
+| 4 | Fracturing; the Reckoning splinter has broken off; Edoran has lost control of the Fanatics |
+| 5 | Remnant; Edoran's core followers plus whatever Jaret's group does independently |
+
 ---
 
 ### The Desperate
@@ -413,11 +475,101 @@ The cult has cells throughout the city, particularly in the Lowmark. Some member
 
 The Desperate are not a formal faction - they are a movement. Working-class Varenholders who have watched the city decline for their entire lives. They have no ideology beyond urgency. Some have joined the Restorers. Some petition the Council. Some are beginning to look at the Dawnborn with something darker than admiration.
 
-In Sessions 3–5, if the players have not addressed the Desperate's concerns, they become a mob. They are not villains - they are desperate people who have run out of patience.
+In Sessions 3-5, if the players have not addressed the Desperate's concerns, they become a mob. They are not villains - they are desperate people who have run out of patience.
 
 **Key attitude:** Initially neutral to players. Warm to players who visibly listen to them. A threat to anyone who seems to be stalling or protecting the status quo.
 
+**Named Leadership:**
+
+| Name | Role | Position |
+|------|------|----------|
+| **Senna Kard** | Street organizer; Lowmark; rage engine | Legitimate grievances expressed through crowd violence |
+| **Brin Oss** | Former dock worker; practical organizer | Wants results, not drama; the most reasonable voice in the movement |
+| **Pella Vain** | Parish delegate to Varenhold | External voice; represents the Dusk Parishes' dying farms |
+
+**Tipping Points:** The Desperate escalate from petition to protest to violence on a specific trigger track. Knowing the triggers lets the players manage the escalation:
+
+| Trigger | Effect |
+|---------|--------|
+| Another food rationing announcement | +1 pressure level |
+| Public evidence that the Council knew and concealed the ritual cost | +2 pressure; immediate rally at Council Hall |
+| Any Dawnborn visibly leaving the city | +1 pressure; perceived as abandonment |
+| Players visibly listen to Senna or Brin; genuine engagement | -1 pressure |
+| Partial ritual completion (brighter sky) | -2 pressure; buys significant time |
+| Full ritual completion | Pressure resets; grief begins |
+
+**What they'll accept as partial victory:** Any credible sign of progress. The Desperate are not ideological - they want to see something working. A brightened sky, a verified alternative path, a credible public commitment from the Dawnborn - any of these reduces pressure significantly.
+
+**Faction Session State Table:**
+
+| Session | Desperate State (if players ignore them) |
+|---------|------------------------------------------|
+| 1 | Simmering; petitions, quiet vigils |
+| 2 | Vocal; public gathering at Lowmark Dawnhall; Senna's first public speech |
+| 3 | Active; street demonstrations; first minor violence |
+| 4 | Crisis; mob stormed Council Hall; two injured; Council wants martial law authorization |
+| 5 | Decisive; either behind the players' solution or blocking it |
+
 ---
+
+### The Healers' Guild
+
+**What they want:** To treat people effectively, maintain professional neutrality, and survive the political situation without being forced to take a side.
+
+The Healers' Guild is one of the few institutions in Varenhold that all factions trust, because it has maintained strict neutrality for fifty years. The Guild treats Restorers, Desperate, Council members, and Dawnborn with equal professionalism. This makes it the city's most reliable information network - Healers see everyone at their most vulnerable.
+
+**Guild Master: Sevra Dain** (she/her), 58 years old, Lowmark-born, has been running the Guild for fifteen years. Dry sense of humor. Professionally calm. Quietly furious about the grey sickness rate and the political paralysis that has prevented addressing it. She will cooperate with players who are trying to improve the situation and will not help players who are making it worse.
+
+**What the Guild Knows (that no one else does):**
+- The grey sickness rate by district, updated weekly - the Spire's numbers are 15% lower than reality because they're using outdated census data
+- Which Dawnborn have sought private medical consultations and why (confidential, but a player who earns significant trust may get partial disclosure)
+- That Lira Anwick has a child - Sevra delivered Mira and has kept the secret at Lira's explicit request
+- The correlation between Dawnborn presence and reduced grey sickness rates in the areas where they spend time
+
+**Joining the Guild's information network:** Players who assist the Healing House (treating patients, securing supplies, protecting healers during unrest) can build enough trust for Sevra to share information selectively. She will not betray patient confidentiality. She will tell players what they need to know to avoid making things worse.
+
+---
+
+### The Spire Scholars
+
+**What they want:** Academic reputation, research funding, and the credit for solving the twilight if it gets solved.
+
+The Spire is not a unified institution - it contains three competing theoretical schools that have been fighting for resources and recognition for decades. Understanding the internal politics helps players navigate requests for assistance, access to documents, and use of the Spire's experimental equipment.
+
+**Internal Schools:**
+
+| School | Leader | Theory | Funding Source |
+|--------|--------|--------|---------------|
+| **The Structural Approach** | Warden Keseph | Mathematical; the ritual's architecture can be replicated; the Dawnborn are a distraction | Solennite academic grants (secret) |
+| **The Anchor School** | Isolde Menth | The Lux Anchors are the key; energy must be transferred, not extinguished | No external funding; using own resources |
+| **The Divine Mechanics School** | Scholar Fenn | Auris's involvement means the solution requires religious cooperation, not just arcane | Informal Wounded faction support |
+
+**Getting Spire Access:** The Spire's public floors are open to anyone. Restricted research floors require a letter of introduction from a named Council member or a senior Spire Scholar. Isolde Menth will provide access to her own laboratory to any player she trusts. Keseph will obstruct any player who seems close to the truth.
+
+---
+
+### The Merchants' Compact
+
+**What they want:** Stability that allows commerce to resume; specifically, a functional Varenhold that handles its own problems and stops requiring Compact merchants to make humanitarian charity calls on their expense reports.
+
+The local Merchants' Compact (distinct from the Arveth Compact, though related) represents Varenhold's surviving commercial class: the amber workshops, the dock operators, the transit service providers, and a dwindling number of general merchants who have stayed when others left.
+
+**Trade Representative: Saret Onn** (she/her), 45 years old, former Arveth Compact factor who chose Varenhold twelve years ago and has been managing its trade relationships with dedicated competence ever since. She has detailed knowledge of all active trade routes, current goods prices across the Reaches, and which Arveth Compact partners are genuinely willing to re-engage versus which are waiting to see which way things fall.
+
+**What the Compact will do:**
+- Share trade intelligence with players who have the Chancellor's endorsement
+- Arrange letters of introduction to Arveth Compact and Solenne trade contacts
+- Fund a specific action if it demonstrably protects commerce (e.g., a mission that secures a threatened caravan route)
+- Provide black market access if players can demonstrate they won't use it against Compact interests
+
+**Faction Session State Table:**
+
+| Session | Compact State |
+|---------|--------------|
+| 1-2 | Business as usual; cautious about the investigation |
+| 3 | Nervous; trade partners asking pointed questions about the city's "curse situation" |
+| 4 | Quietly preparing contingencies; Saret is drafting evacuation plans for Compact assets |
+| 5 | All in, one way or another; Saret will back whatever path seems most likely to succeed |
 
 ## The Living World
 
