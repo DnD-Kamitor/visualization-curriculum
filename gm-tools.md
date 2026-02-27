@@ -747,6 +747,174 @@ The 5-Room Dungeon is not only for dungeons. It applies to any investigation sit
 
 ---
 
+## Session Prep Cards: The 15-Minute Method Per Session
+
+*For each session: the minimum you need to have in your head before sitting down. Not pages of notes - just the three NPCs you need, the two beats you must hit, and one wild card.*
+
+---
+
+### How to Use These Cards
+
+Before each session, spend 15 minutes with the relevant card:
+1. Read the three NPCs listed. For each, answer: *What do they want right now? What are they afraid of? What are they not saying?*
+2. Identify the two beats you must hit. Mark them on your session notes.
+3. Pick your wild card. You may not use it. Have it ready.
+4. Carry one consequence from last session. Write a single sentence about how that consequence changes one NPC's behavior today.
+
+That's it. Put the book away. Go run the session.
+
+---
+
+### Session 1: Into the Dark
+
+**Premise:** The players arrive in Varenhold, are hired, and discover something is being hidden.
+
+**3 NPCs to Have Ready:**
+
+| NPC | Want Right Now | Fear | Not Saying |
+|-----|---------------|------|------------|
+| **Theron Waide** (Archivist) | Help from someone who might solve this | That his concealment will be discovered | He has had the documents for 11 years |
+| **Brother Edoran** | Someone willing to face the full truth | That no one will be brave enough | Three Dawnborn have already said yes |
+| **Helka** (Wayfarer's Rest) | The city to stop getting worse | That it's going to collapse anyway | She's a quiet Restorer sympathizer |
+
+**2 Scene Beats You Must Hit:**
+1. A moment in the Lowmark where the grey sickness is visible and personal - not abstract statistics
+2. The moment when the players realize Theron is scared, not incompetent - something specific he says or doesn't say gives it away
+
+**1 Wild Card:** A Reckoning scout (unidentified) is watching the players from the Archive steps. If the players notice them, the scout disappears into the Ashfen Gate crowd. This plants the seed.
+
+**Consequence Carry-in:** (Use this for Session 2 only - no carry-in for Session 1.) N/A.
+
+**What to Cut If Running Short:** The Merchants' Compact contact scene. Cut the secondary hire; focus on Theron as the primary thread.
+
+**Minimum Viable Prep Checklist:**
+- [ ] Know Theron's voice (tired, precise, carrying something)
+- [ ] Know what the Archive smells like when the players enter
+- [ ] Know where the first clue lives (their specific choice of approach)
+- [ ] Know the name of at least one grey sickness patient in the Lowmark Healing House
+
+---
+
+### Session 2: The Weight of Light
+
+**Premise:** The players meet Sera, Tomas, and Lira. The ritual's true cost becomes real.
+
+**3 NPCs to Have Ready:**
+
+| NPC | Want Right Now | Fear | Not Saying |
+|-----|---------------|------|------------|
+| **Sera Voss** | To protect the people she loves | That she's going to lose and knows it | She's already decided she won't agree |
+| **Tomas Areth** | To understand the mathematics of the problem | That there's no asymmetry left to find | He thinks there might be a third option that requires someone smarter |
+| **Lira Anwick** | To keep her patients alive through the transition | That her daughter won't forgive her | She would say yes to the ritual if the alternative is watching more people die slowly |
+
+**2 Scene Beats You Must Hit:**
+1. The moment the players understand what the ritual costs - and it's not abstract; it's the specific person standing in front of them
+2. At least one Dawnborn saying something that makes the players genuinely not want to hurt them
+
+**1 Wild Card:** Edoran arrives at an unexpected moment - at the Healing House, or at Tomas's mediation - and says nothing about why he's there. He is watching the players and the Dawnborn interact. He is doing something with this information.
+
+**Consequence Carry-in:** One NPC's attitude has shifted based on Session 1 choices. If the players were honest with Theron, he's slightly warmer. If they pressed him hard, he's more guarded.
+
+**What to Cut If Running Short:** The secondary encounter at the Cathedral. Focus on one Dawnborn meeting; do the other two next session.
+
+**Minimum Viable Prep Checklist:**
+- [ ] Know each Dawnborn's signature behavior (Sera's body-blocking, Tomas's pause, Lira's hands)
+- [ ] Know what Lira's care house smells like
+- [ ] Know the specific patient name Lira is worried about today
+- [ ] Know which Dawnborn the players are most likely to connect with first (based on Session 1 choices)
+
+---
+
+### Session 3: Lesser Evils
+
+**Premise:** The players must choose between two paths, both with costs. They cannot avoid choosing.
+
+**3 NPCs to Have Ready:**
+
+| NPC | Want Right Now | Fear | Not Saying |
+|-----|---------------|------|------------|
+| **Edoran** | The players to make a real choice, not hedge | That they'll find a third option that isn't real | He knows Keseph is funding the Reckoning; hasn't decided whether to tell anyone |
+| **Chancellor Ostenveld** | Political cover for whatever the players recommend | That she'll have to decide this herself | She's already leaning toward authorization if enough Dawnborn agree willingly |
+| **Isolde Menth** | Someone to take her alternative theory seriously | That her theory is wrong | She has a partial counter-ritual that might work; 30% chance of catastrophic failure |
+
+**2 Scene Beats You Must Hit:**
+1. The moment the players find something that changes the moral calculus - not a loophole, but an additional weight that makes the choice harder, not easier
+2. A confrontation with their own past choice - something from Session 1 or 2 comes back with consequences they didn't predict
+
+**1 Wild Card:** The Desperate hold a demonstration outside Lira's care house. Harran's people haven't started it, but they're watching. If the players engage the demonstrators, they get unfiltered Parish perspective. If they ignore it, it escalates into something that affects Session 4.
+
+**Consequence Carry-in:** Who the players trust has narrowed Edoran's willingness to be direct. If they've been working through Restorer channels, he is more forthcoming. If they've been working through Council channels, he is careful.
+
+**What to Cut If Running Short:** The Spire access scene. Isolde can deliver her information in the Archive in a shorter scene. Cut the bureaucratic access sequence.
+
+**Minimum Viable Prep Checklist:**
+- [ ] Know the current state of each Dawnborn (willing/unwilling/undecided) based on player interactions
+- [ ] Know exactly what Edoran's tells are when he's deciding whether to trust someone
+- [ ] Know Isolde's alternative theory in enough detail to explain it in two sentences
+- [ ] Know what Ostenveld's face does when she's genuinely uncertain
+
+---
+
+### Session 4: The Breaking Point
+
+**Premise:** The Reckoning forces the issue. External threat catalyzes internal choices.
+
+**3 NPCs to Have Ready:**
+
+| NPC | Want Right Now | Fear | Not Saying |
+|-----|---------------|------|------------|
+| **Harran** (Reckoning Commander) | To force the decision the politicians won't make | That forcing it will make it wrong | He's not sure anymore that Edoran is right about everything |
+| **Aldric Stone** | To be left alone with his decision | That they'll drag him back into this | He has almost said yes; the violence just pushed him to almost no |
+| **Petra Vane** | To understand what choosing would actually feel like | That she's the weak link everyone's been waiting for | She's been writing letters to Lira about it for six months; Lira hasn't answered |
+
+**2 Scene Beats You Must Hit:**
+1. A moment where combat pauses and something human happens - a Dawnborn intervenes, or Harran says something true, or a player character has a conversation in the middle of violence
+2. The revelation about Keseph (if not already discovered) - his funding of the Reckoning via Compact intermediaries
+
+**1 Wild Card:** A second Reckoning cell (not Harran's unit) is targeting a different Dawnborn simultaneously. If the players split up, they find this. If they don't, they learn about it afterward - and it changes whether Aldric was moved.
+
+**Consequence Carry-in:** Every Dawnborn position from Session 3 becomes a concrete starting state for this session. Know who is willing, who is undecided, who is firmly no, and why. These states are now what the Reckoning is trying to change by force.
+
+**What to Cut If Running Short:** Aldric's full scene. Replace with a note delivered by a Lowmark contact saying he's in hiding and will meet the players later. Prioritize the combat scene and Keseph's revelation.
+
+**Minimum Viable Prep Checklist:**
+- [ ] Know Harran's current state of certainty/doubt (based on prior player interaction)
+- [ ] Know the combat's secondary objectives (what the players are protecting, not just fighting for)
+- [ ] Know which Dawnborn is most likely to step between the combatants
+- [ ] Know Keseph's reaction when confronted - he is not a coward, but he is not prepared to be caught
+
+---
+
+### Session 5: The Price of Dawn
+
+**Premise:** The finale. The players bring the Dawnborn to the Ashring and make the choice. Nothing is resolved without cost.
+
+**3 NPCs to Have Ready:**
+
+| NPC | Want Right Now | Fear | Not Saying |
+|-----|---------------|------|------------|
+| **All 10 Dawnborn collectively** | To make a real choice, not be maneuvered | That they're being decided for, not with | They are more afraid of being forgotten than of dying |
+| **Edoran** | To have been right about something | That the players will succeed and he'll have to live with what he set in motion | He's proud of the players and ashamed of himself, at the same time |
+| **Theron Waide** | Absolution | That he doesn't deserve it | He's prepared a full accounting of the 11 years to give the players; he's been writing it for weeks |
+
+**2 Scene Beats You Must Hit:**
+1. The quiet moment before the ritual - each Dawnborn gets one sentence that stands as their final statement of who they were
+2. The moment after - whatever ending plays out, there must be silence before anyone speaks
+
+**1 Wild Card:** If the players have treated a Dawnborn with particular respect or care, that Dawnborn does something unexpected in the ritual moment - a gesture, a word, a look - that gives the players something to carry. Prepare one specific gesture for the Dawnborn the players connected with most.
+
+**Consequence Carry-in:** Every major choice the players made in Sessions 1-4 should be named before Session 5 begins. Not mechanically - just: "At the start of Session 5, because of Session 3, Lira knows X. Because of Session 4, Aldric is Y. Because of how you treated Theron, he will or will not do Z." Carry all of it.
+
+**What to Cut If Running Short:** The Reckoning's final challenge (make them absent rather than present if time is short - the implication that they're somewhere is enough). Never cut the ending ritual. Never cut the post-ritual silence.
+
+**Minimum Viable Prep Checklist:**
+- [ ] Know each Dawnborn's final position (willing/unwilling/uncertain)
+- [ ] Have the six endings memorized; know which one or two feel most likely
+- [ ] Know the debrief questions you'll ask after the final scene
+- [ ] Know the one sentence you'll say to close the campaign, before the debrief begins
+
+---
+
 ## The GM's Final Reminder
 
 You are not the storyteller. You are the *conditions* of the story.
