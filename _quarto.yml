@@ -22,6 +22,7 @@ book:
       chapters:
         - setting.md
         - npcs.md
+        - trade.md
     - part: "The Sessions"
       chapters:
         - session1.md
