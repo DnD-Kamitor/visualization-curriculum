@@ -530,6 +530,86 @@ The Healers' Guild is one of the few institutions in Varenhold that all factions
 
 ---
 
+### The Grey Sickness: Medical and Social Reality
+
+*The grey sickness is not a disease in the conventional sense. It does not spread between people. It spreads through absence - through the slow removal of something the body needs that medicine cannot fully replace.*
+
+**What It Is:**
+The grey sickness is a systemic condition caused by prolonged exposure to light that lacks the full solar spectrum. The Healers' Guild recognized it formally in Year 8 of the twilight; Spire researchers have been arguing about its mechanism ever since. The most practical working theory: the human body has regulatory processes that require full-spectrum light to maintain, and fifty years of amber-haze exposure has degraded those processes in most of the population to varying degrees.
+
+The Dawnborn don't get it. This is the clue that connects the grey sickness to the Lux Anchor - the light they carry is the right kind of light, and people who spend significant time near them show statistically lower incidence. Sevra Dain knows this correlation. She has not published it because the implication is uncomfortable.
+
+**Stage 1: The Fog (Weeks to Months)**
+
+*Who has it:* Estimated 60% of Varenhold's permanent population shows Stage 1 symptoms. It is so common that many people don't identify it as sickness - they think they're just tired.
+
+*Symptoms:*
+- Persistent low-grade fatigue that doesn't respond to rest
+- Difficulty concentrating; thoughts arrive slowly and don't stick
+- Reduced appetite, particularly for complex flavors
+- Low mood without specific cause - not depression exactly, but a general flattening of affect
+- Heightened cold sensitivity, particularly in the extremities
+
+*Social reality:* Stage 1 is invisible. People manage it. They drink more tea. They sleep longer. They stop planning for things more than a few weeks ahead. The city runs on people managing Stage 1.
+
+*Treatment:* Lira's compound (monthly supply, 3 writs). Primarily magnesium and marsh oil derivatives that support the body's substitute regulatory pathways. It doesn't cure Stage 1 - it prevents Stage 2 from developing. Most functional adults in the Lowmark prioritize the compound above almost anything else.
+
+**Stage 2: The Withdrawal (Months to Years)**
+
+*Who has it:* Estimated 20% of the population, concentrated in the Lowmark and the Dusk Parishes. Older residents who didn't have access to treatment in the first decades before the compound was available. Children born under the twilight who missed early-stage treatment.
+
+*Symptoms:*
+- The flattening deepens into genuine emotional blunting: reduced capacity for joy, reduced capacity for fear, reduced investment in outcomes
+- Cognitive slowing becomes apparent to others - pauses before answering, difficulty tracking complex conversations
+- Physical symptoms: hair loss, skin pallor, joint aches
+- The characteristic that gives Stage 2 its name: withdrawal. Stage 2 patients begin to disengage from relationships, work, and future plans. Not dramatically - just a gradual reduced investment in anything
+
+*Social reality:* Stage 2 is the sickness the city knows about. Stage 1 patients fear becoming Stage 2. Stage 2 patients in the Lowmark are often supported by neighbors who share their treatment costs. The care houses in the Lowmark Healing House are primarily for Stage 2 patients who have lost the ability to maintain themselves.
+
+Stage 2 makes visible what Stage 1 conceals: that the city's population is not fine. The Desperate draw most of their members from people who have watched a family member move from Stage 1 to Stage 2.
+
+*Treatment:* Lira's compound at double dose provides some management of Stage 2 progression. It is expensive. The care houses provide it free for anyone who can't afford it, which is why the care houses are always full.
+
+**Stage 3: The Care-Dependent Stage (Years)**
+
+*Who has it:* Estimated 5-8% of the permanent population. Almost entirely older residents or those who developed the condition before treatment was available.
+
+*Symptoms:*
+- Full emotional flatline: Stage 3 patients can speak, respond, and follow simple instructions, but show no investment in any outcome
+- Physical systems degrade: eating requires prompting, hygiene requires assistance, sleep patterns invert
+- The patients most visibly present in Lira's care houses are Stage 3
+
+*Social reality:* Stage 3 patients are cared for by the Healers' Guild care network and by family members when family is available. The city's attitude toward Stage 3 is a complex mix of compassion and the particular grief of watching someone you know become unreachable. Many Desperate members have a Stage 3 family member. This is not coincidence.
+
+*Terminal:* Stage 3 patients have a median survival of two to three years from Stage 3 onset. Morthis clergy run the care houses alongside the Healers' Guild. There is no Stage 4 because Stage 3 ends in death.
+
+**Why Lira's Compound Cannot Scale:**
+
+The compound's active ingredient is a specific marsh oil derivative - the Ashfen marsh oil that gives Lowmark Stew its distinctive taste. The same property that makes the oil useful in cooking (specific molecular stability at low temperatures) makes it effective in the compound. But the synthesis requires a precise extraction process that Lira developed herself and has not fully documented.
+
+The three limiting factors:
+1. **Marsh oil supply:** The Ashfen Clans control the primary supply. Clan pricing has tripled over fifty years as they've recognized the dependency. Lira's supply agreement with the Clans is a personal negotiation she has maintained for fifteen years. If she dies, the agreement likely dies with it.
+2. **Synthesis time:** Each batch requires Lira's direct involvement for approximately eight hours. She produces enough for roughly four hundred patients per month. There are approximately twelve hundred patients on her current list. The backlog is managed by prioritization - children and Stage 2 patients first.
+3. **Knowledge concentration:** Lira has not fully shared the synthesis process. Partly because she doesn't fully understand why it works. Partly because she's afraid an impure batch would accelerate Stage 2, which has happened twice with unauthorized versions.
+
+**The Black Market Alternative:**
+
+A distributor named Mave operates a black market compound through the Lowmark. Mave's compound works, partially. Mave insists on quality standards. Three known batches of Mave's compound in the past two years have caused Stage 2 acceleration rather than slowing.
+
+Mave knows one of the accelerated cases personally. She has been trying to find out what went wrong. She has not found a synthesis partner who can replicate Lira's result. She is, quietly, a Desperate sympathizer who would prefer Lira's system to work if Lira could be persuaded to scale it.
+
+**The Dawnborn Proximity Effect (GM Only):**
+
+Healers' Guild data shows that patients who regularly spend time near a Dawnborn progress through Stage 1 at one-third the normal rate. Stage 2 progression slows but does not halt. Stage 3 patients show no effect.
+
+Sevra Dain suspects this means the Lux Anchor energy that the Dawnborn carry is partially compensating for the solar-spectrum deficit. If this is correct, then the Dawnborn's deaths - their energy releasing into the city at the ritual moment - might have a sustained healing effect on the grey sickness population beyond simply restoring the sun.
+
+If this is correct, Ending A may save more lives than the sun alone.
+
+Sevra has not published this theory because publishing it would be interpreted as arguing for the ritual. She is not arguing for the ritual. She is a doctor. She records what she sees.
+
+---
+
 ### The Spire Scholars
 
 **What they want:** Academic reputation, research funding, and the credit for solving the twilight if it gets solved.
