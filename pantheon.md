@@ -30,11 +30,35 @@ The clerical orders of Auris have fractured into two main factions that currentl
 
 **The Wounded** hold that something happened *to* Auris - that the god was harmed by the ritual, weakened, somehow diminished. Their worship is less contrite and more urgent: prayers framed as healing work, rituals that explicitly offer the god strength, clergy who understand themselves as tending a wounded patient. The Wounded are more likely to be politically engaged, more likely to support active restoration efforts, and more likely to clash with the Penitents over what reverence looks like.
 
-Both factions claim legitimacy. Both have historical precedents for their theology. Both believe the other is making a serious error. In Varenhold, where the Auris temple is smaller than it was (the main cathedral was in Solenne all along; Varenhold's Auris presence was always a secondary order), the two factions share the same building and manage the arrangement with visible strain.
+Both factions claim legitimacy. Both have historical precedents for their theology. Both believe the other is making a serious error.
 
-**Praying to Auris in Varenhold feels different.** This is something people report rather than something that can be verified. Auris clergy from outside the Reaches who visit Varenhold consistently describe the same phenomenon: prayer to Auris here has a quality of - absence is the wrong word. Distance. As though reaching across a longer gap than usual. Whether this means anything theological is debated.
+**Named Leaders:**
+- **High Penitent Osvar Denn** (he/him), 70s, former Solennite clergy who came to Varenhold thirty years ago specifically to practice the penitent tradition in the place where the offense occurred. Slow-spoken, certain, quietly influential beyond his faction's size.
+- **Speaker Anya Voss** (she/her, no relation to Sera), 40s, born in Varenhold, became Wounded clergy after her mother died of grey sickness. Urgent, political, makes Osvar uncomfortable in ways he can't quite argue against.
+
+**Praying to Auris in Varenhold feels different.** This is something people report rather than something that can be verified. Auris clergy from outside the Reaches who visit Varenhold consistently describe the same phenomenon: prayer to Auris here has a quality of distance - as though reaching across a longer gap than usual. Whether this means anything theological is debated.
 
 ![Auris, the Dawnbringer - the sun god in a time of his absence; a devotional image of grief and enduring hope](images/god-auris.svg)
+
+**The Temple:**
+Varenhold's Auris Cathedral is in the Outer Ring - a grand building that would have been impressive in the pre-twilight era and is now divided by a temporary-permanent wall down the center nave. The northern half belongs to the Penitents: plain, white-washed, hung with mourning cloth, the altar bare except for an empty lamp. The southern half belongs to the Wounded: flowers on the altar, warm candlelight, devotional paintings covering every surface, a constant low murmur of prayer. The forecourt is shared and contested.
+
+**Worship Practices:**
+- Penitents: Dawn-vigil at the hour when the sun should rise (maintained by city bell schedule); fasting on the anniversary of the ritual; communal silence for thirty minutes at midday; individual confession to a priest
+- Wounded: Dawn-vigil framed as a healing ritual for the god; regular offerings of amber (as the closest material approximation of sunlight); group prayers that are explicitly addressed to the god's wound; laying on of hands as a healing gesture
+
+**How the Twilight Changed This Faith:**
+The Auris schism is entirely a product of the twilight. Before the ritual, Auris-worship in Varenhold was unified, relatively quiet, and secondary to Dara as the dominant civic faith. The twilight made Auris the most theologically fraught faith in the city overnight, and fifty years of unresolved crisis has calcified both factions' positions.
+
+**Common Phrases:**
+- *"May you walk in the light you carry"* - a Wounded blessing; implies you have inner light even when the outer is absent
+- *"The god remembers the sun even when we have forgotten"* - a Penitent affirmation
+- *"Dawn is a direction, not a time"* - common secular Varenhold saying; loosely Auris-origin
+
+**Playing an Auris Cleric:**
+Which faction? This matters in Varenhold. Penitents will be regarded by many Varenholders as passive; Wounded as politically engaged to the point of partisanship. A cleric who maintains neutrality between factions will be respected by almost everyone and trusted by neither faction's leadership. The theological weight of "why did the god let this happen" is a permanent ambient pressure. Auris clerics in Varenhold are asked for answers they don't have, daily.
+
+---
 
 ### Morthis - The Usher
 
@@ -50,6 +74,30 @@ The grey sickness has dramatically increased the Ushers' caseload and their civi
 
 ![Morthis, the Usher - god of passage and transition; the grey ferryman at the threshold between the living world and what comes after](images/god-morthis.svg)
 
+**The Temple:**
+The Morthis Death-House is in the Lowmark, adjacent to the Healing House. It is not called a temple - the Ushers resist that language. It is a working building: clean, plain, stone-floored, smelling of herbs used in preparation rites. There is a reception room where families meet with Ushers, a preparation room (private), and a small meditation space with a single grey-clothed altar. The building runs continuously; there is always an Usher on duty.
+
+**Named Priest: Senior Usher Maren Doll** (they/them), 55 years old, former military medic who joined the Ushers thirty years ago.
+- *Occupation:* Senior Usher; manages the Lowmark Death-House; trains new Ushers
+- *Goal:* Keep the grey sickness dying population accompanied; they will not die alone if Maren can help it
+- *Secret:* Maren has been tracking a pattern in grey sickness deaths suggesting an environmental cause - something specific to the Lowmark waterways. They haven't reported it because they don't know what to do with the information and are afraid of causing panic.
+
+**Worship Practices:**
+Morthis does not require elaborate worship. The primary religious act is the passage rite: being present with the dying, naming them aloud as they pass, saying the Usher's words: *"The door is open. The ferry waits. You are not alone."* Outside of death contexts, Morthis-worship involves regular meditation on impermanence, small observances at threshold moments (entering a building, beginning a journey), and the keeping of a personal record of the dead one has known.
+
+**How the Twilight Changed This Faith:**
+The twilight has been, in a grim sense, good for the Morthis clergy. They are needed more than ever. The theological complexity is that the permanent transition-state (the twilight itself resembling the dusk that Morthis inhabits) has made some Ushers feel permanently "in the god's presence" - which is exhausting. A few have had theological crises about whether the twilight is a prolonged death-state for the entire city.
+
+**Common Phrases:**
+- *"The door is open"* - said to the dying; also used colloquially for any irreversible decision
+- *"Name them when they go"* - Morthis tradition; also a general phrase for honoring people's choices, even terrible ones
+- *"The ferry doesn't judge what you were carrying"* - used as consolation for guilt or regret
+
+**Playing a Morthis Cleric:**
+Ushers in Varenhold are among the most practically respected people in the city. They are not feared; they are the people you call when you need someone steady. The theological weight is existential: the god of transition presides over a city that cannot transition. The grey sickness is, in some readings, a spiritual failure as much as a physical one - the city is slowly dying in the transition-state. Morthis clerics often feel a quiet urgency about the ritual question that is entirely separate from politics.
+
+---
+
 ### Veth - The Keeper of Closed Things
 
 *Domains: Knowledge (hidden), Trickery (in service of secrets), Death (of secrets and of those who hold them). Associated symbols: the locked box, the sealed letter, the index finger raised.*
@@ -63,6 +111,27 @@ Veth is the patron of scholars (who know things they can't yet publish), archivi
 Veth-practitioners in Varenhold are generally known by reputation rather than by observation. You don't see them worship; you hear afterward that so-and-so is "Veth-touched," which is the colloquial term. Whether this is a compliment depends on context.
 
 ![Veth, Keeper of Closed Things - the god of secrets and private knowledge; a candlelit desk, a locked box, a sealed letter](images/god-veth.svg)
+
+**The Temple:**
+There is no Veth temple. The closest thing is the back reading room of the Archive, which Theron Waide has informally dedicated to Veth over eleven years of private worship. He has never said this explicitly to anyone. The Archive is generally understood to be under Veth's informal protection - librarians and archivists across the Reaches acknowledge this, though they would word it differently.
+
+**Named Priest:** There are no Veth priests. The closest equivalent in Varenhold is **Archivist Theron Waide** himself, who has been conducting an involuntary eleven-year Veth observance without fully realizing it. Carrying a secret that must not be shared, unable to act on it, waiting for someone who can. This is almost a textbook Veth-devotion. If asked directly whether he worships Veth, Theron becomes very quiet.
+
+**Worship Practices:**
+Private, unwitnessed, and self-defined. The universal element is the locked box: every Veth-practitioner keeps something locked, containing something they have chosen not to share. The practice is to add to it, tend it, and occasionally review its contents to understand what you are still holding and whether the time to share has come. There is no formal service, congregation, or public practice.
+
+**How the Twilight Changed This Faith:**
+The twilight has made Varenhold into a city of secrets - the ritual's cost, the Dawnborn's nature, the political calculations, the personal griefs. Veth-worship has probably grown more than any other faith since the twilight, precisely because so many Varenholders are carrying things they cannot say. The god of secrets has never had more content to work with.
+
+**Common Phrases:**
+- *"There are things I'm not saying"* - said with a specific formality, this is a Veth-acknowledgment that you are holding something deliberately
+- *"When the time comes"* - a Veth phrase for the moment when a secret can finally be shared
+- *"What you're not saying is the loudest thing in this room"* - Varenhold colloquial; may or may not be Veth-origin
+
+**Playing a Veth Cleric:**
+Veth clerics are rare - the god has no formal clergy - but "Veth-touched" characters who use their connection to the god in play are the people who carry difficult knowledge carefully, who act as confessors and archivists and keepers-of-trust. In Varenhold, a Veth-oriented character will find themselves in the center of every information asymmetry in the campaign. They may know things they cannot share. This is the god's gift and its cost.
+
+---
 
 ### Dara - The Hearthkeeper
 
@@ -78,6 +147,27 @@ Dara and Morthis are understood to be in a complementary relationship - not marr
 
 ![Dara, the Hearthkeeper - goddess of community and shared meals; amber lanternlight on a long table, clasped hands, the warmth of gathered people](images/god-dara.svg)
 
+**The Temple:**
+No temple. The Great Dawnhall is Dara's de facto home in Varenhold. The central kitchen hearth in the Great Dawnhall has been burning continuously for thirty-five years - it was lit by a Dara-devoted cook during the worst winter of the first decade of the twilight, and the tradition of never letting it go out has been maintained ever since. To some Varenholders, that hearth is the most sacred object in the city.
+
+**Named Priest:** There are no Dara clergy in the formal sense. The closest is **Nessa the Memorial Keeper**, who maintains the Great Dawnhall's memorial room and understands her work as Dara-service. Sevra Dain of the Healers' Guild is also widely understood to be Dara-devoted; she runs her institution like a Dara hearth.
+
+**Worship Practices:**
+Dara is worshipped by acting in accordance with her values: feeding people, maintaining communal spaces, remembering the dead by name, showing up for neighbors. The private practice is the home shrine: a small shelf or ledge with a lamp or candle, often decorated with objects from meals (a cup, a preserved herb, a piece of bread). The lamp is lit when the household gathers for meals and extinguished when the last person goes to sleep. In Varenhold, these shrines almost always include a small amber lantern.
+
+**How the Twilight Changed This Faith:**
+Dara-worship has arguably gotten *better* since the twilight, in the sense that communal bonds and mutual support have been forced by necessity into the open. Varenholders who would have kept to themselves in a prosperous city have learned to show up for each other. Whether Dara caused this or simply benefits from it is a question the theology doesn't need to answer.
+
+**Common Phrases:**
+- *"The hearth's lit"* - an open invitation; means you are welcome, come in, there's food
+- *"Stir the pot before you leave"* - Dara-origin; means contribute something before you move on
+- *"Dara's bowl is never empty if everyone brings something"* - the Dawnhall motto, essentially
+
+**Playing a Dara Cleric:**
+Dara clerics are practical community organizers in clerical robes. In Varenhold, they will be immediately trusted by Lowmark and Dawnhall residents and viewed with slight suspicion by Spire Quarter types (who find civic theology unsophisticated). The theological burden is not existential but emotional: the god of community presides over a community that is slowly losing people, and a Dara cleric will feel every death, every emigration, every person the grey sickness takes as a personal failing of their work.
+
+---
+
 ### The Wanderer - Of No Fixed Address
 
 *Domains: Trickery, Nature, Travel. Associated symbols: the wayshrine stone, the open road, a single sandal.*
@@ -92,6 +182,27 @@ The god has no known position on the twilight. The Wanderer's theology has alway
 
 ![The Wanderer - god of roads and passage; an ancient wayshrine at a crossroads, worn smooth by generations of hands, the road receding into amber twilight](images/god-wanderer.svg)
 
+**The Temple:**
+The Ashfen Gate Wayshrine is a rough stone obelisk about four feet tall, worn smooth at chest height where hands have touched it for generations. It sits just outside the city gate in a small cleared space. Someone - probably multiple someones over the years - has built a low stone border around it and occasionally brings offerings: coins, food, a worn shoe. No one is responsible for maintaining it officially. It is always maintained.
+
+**Named Priest:** Currently in Varenhold: **Wayward Tenn** (he/him), late 20s, on his third circuit of the Reaches. Cheerful, observant, in possession of more information about what's moving between cities than anyone in the Spire. He has been in Varenhold three weeks, which is longer than usual - he says the road is "waiting for something." He's leaving when the ritual question resolves, whichever way it goes.
+
+**Worship Practices:**
+Touch the wayshrine when you arrive and when you leave. Say the traveler's words: *"I came from somewhere. I'm going somewhere. Let the road between them hold."* For longer journeys, leave an offering at the shrine before departure. The Wanderer does not demand elaborate ritual; he demands attention - to where you are, where you came from, where you're going, and what you might find that you weren't expecting.
+
+**How the Twilight Changed This Faith:**
+The Wanderer's theology has an unexpected resonance in the twilight city. The Wanderer is comfortable with being between places. Varenhold is between states - between twilight and dawn, between the old world and whatever comes next. Wayward priests find Varenhold a more spiritually interesting posting than most cities, and tend to stay longer than the theology technically recommends.
+
+**Common Phrases:**
+- *"Touch the stone on the way in"* - both literal and figurative; means acknowledge where you're starting from
+- *"The road knows"* - the Wanderer doesn't explain everything, but the road reveals what matters
+- *"I came from somewhere"* - said with Wanderer-inflection, this is a request not to be defined by your origin; you are currently in motion
+
+**Playing a Wanderer Cleric:**
+Wanderer clerics (Wayward) are outsiders by design. They don't stay anywhere permanently, which makes them excellent player characters arriving in Varenhold for the first time - and unusual ones if they stay through the campaign. The theological question the twilight poses for a Wanderer character is genuine: can the god of roads help a city that cannot move forward? The answer may be the campaign's resolution.
+
+---
+
 ### Kael and Mira - The Twin Crowns
 
 *Domains: War (Kael), Life (Mira). Associated symbols: the crossed swords (Kael), the open hand (Mira), the two-faced crown (both).*
@@ -105,6 +216,28 @@ The Twin Crowns' temple in Varenhold is in the Guard Quarter. It is active, freq
 **A note on the name Mira:** The name appears in the campaign in multiple places - the Chancellor's name, the name of a child mentioned elsewhere, and this ancient deity. The god Mira predates both of the others by centuries. The Chancellor's parents were devout Twin Crowns worshippers and named their daughter after the goddess; this is not uncommon in Varenhold. Treat each usage by context; the deity and the person are distinct.
 
 ![Kael and Mira, the Twin Crowns - war and mercy worshipped as one; the two-faced crown, the sword and the open hand](images/god-twin-crowns.svg)
+
+**The Temple:**
+The Twin Crowns Hall is a single-story stone building in the Guard Quarter with two equal halves: the Kael nave (bare stone, weapon racks along the walls, a central altar with crossed swords) and the Mira nave (carved wood, soft lighting, the central altar bearing an open-palmed stone hand). The building is always unlocked. Guards coming off difficult shifts often sit in the Mira nave for half an hour before going home. No one comments on this.
+
+**Named Priest:** **Head Cleric Thessa Morr** (she/her), 60s, retired guard captain, has run the temple for twelve years.
+- *Occupation:* Head Cleric of the Twin Crowns; chaplain to the City Guard
+- *Goal:* Maintain the temple as a space where guards can process what the job does to them; she is specifically worried about what guards might be ordered to do regarding the Dawnborn
+- *Secret:* She has been approached by two guard captains, separately, asking her private theology question: is forcing the unwilling Dawnborn into the ritual justified under Twin Crowns doctrine? She has not answered yet. Both captains are waiting.
+
+**Worship Practices:**
+The core practice is the **reckoning**: after any act of necessary harm (a fight, a difficult order, a decision with costs), a Twin Crowns worshipper sits before both altars and speaks aloud - to the empty temple, to the gods - about what they did and what it cost. Not confession in the sin-forgiveness sense; reckoning in the accounting sense. This is what I did. This is what it took from someone. I am carrying this. Then they stand, touch both altars, and leave.
+
+**How the Twilight Changed This Faith:**
+The Twin Crowns have become increasingly relevant in the twilight era, as the city has been forced to make decisions with clear moral costs. The question of whether forcing the Dawnborn into the ritual is a Twin Crowns-sanctioned act of "necessary harm" is the most active theological debate in the temple right now. Thessa is not publicly answering. She is praying.
+
+**Common Phrases:**
+- *"Both crowns"* - an acknowledgment that a decision has costs you're willing to hold; used to indicate someone is being honest about moral weight
+- *"Name what it cost"* - a Twin Crowns challenge to face the consequences of an action rather than minimize them
+- *"Kael blesses the blow; Mira demands you know what it broke"* - the core teaching, often used as a reminder to stay honest
+
+**Playing a Twin Crowns Cleric:**
+The campaign is specifically designed for Twin Crowns questions. A double-sworn character will find the ritual dilemma sits directly in their theological center: is this a case where harm is necessary, and if so, whose consent matters? The theological framework requires honesty about costs, not justification. A Twin Crowns cleric cannot rationalize - they can only reckon. This is the hardest and most rewarding character to play in this campaign.
 
 ---
 
