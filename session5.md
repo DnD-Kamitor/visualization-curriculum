@@ -463,6 +463,128 @@ After the ending scene, take 5-10 minutes to run epilogues for each major NPC. A
 
 ---
 
+## One Year Later: Epilogue Scenes
+
+*Run these after the NPC epilogue tables. One year has passed. Read the appropriate scene based on the ending. These are the last words of the campaign - take your time.*
+
+---
+
+### Ending A: One Year Later
+
+> *Varenhold, one year after the sunrise.*
+
+> The market is fuller than it's been in decades. Fresh produce is still expensive - it will take years for the farms to fully recover - but there are tomatoes on the Lowmark stalls, and they are not rationed, and the children who buy them do not know what it was like when they cost a writ each.
+
+> The Dawnhalls are still open. They won't close - the city has decided to keep them, not as emergency infrastructure but as civic institution, a memory of the thing that was built when everything was hard. Each one has been renamed. Not for the Dawnborn - the city couldn't agree on that - but after the years: the Year-Five Hall, the Year-Twenty Hall, the Year-of-the-Dawn.
+
+> There is a memorial in the Ashring. Ten names. Below them: *They chose this.*
+
+> People argue about whether those three words are enough. They will still be arguing in twenty years. That seems right.
+
+> The shadow it casts is brand new. No one in the city is used to shadows yet. Children chase them.
+
+*[GM: Pause. Let the image settle. Then close your book.]*
+
+---
+
+### Ending B: One Year Later
+
+> *Varenhold, one year after the brightening.*
+
+> The sky is not what it was before the twilight. The old records say it was blue - a specific blue, the kind that's hard to imagine unless you've seen it. What Varenhold has now is between: a pale, warm gold that isn't quite sunlight but isn't the old amber haze either. The grey sickness rate has dropped. The crops are growing better. It is not a cure, but it is a direction.
+
+> The seven remaining Dawnborn live in a city that treats them with a complicated tenderness. They are not symbols anymore - the city is too tired for symbols - but they are not ordinary either. Lira is still at the care houses. Tomas is still judging. Aldric is back from hiding, quieter than before, and doing something with his hands that nobody expected.
+
+> The memorial says three names. Below them: *They chose this too.*
+
+> Seven people go to the memorial regularly. They don't tell each other. They know.
+
+*[GM: Pause. Let the image settle. Then close your book.]*
+
+---
+
+### Ending C: One Year Later
+
+> *Varenhold, one year after the Cathedral fell.*
+
+> There is a plaza where the Cathedral of Auris once stood. The city debated what to put there - a memorial, a garden, a new hall, nothing - and in the end built a garden, because gardens require light, and there is light again, and growing things seemed right.
+
+> The Auris faith in Varenhold is in its strangest, most contested, most alive moment in two centuries. The Penitents say the Cathedral's loss was judgment. The Wounded say it was sacrifice. A third faction - young, not yet named - says the god doesn't need a building. The argument is real, which means the faith is real, which the clergy count as a sign of health.
+
+> Ten people who used to glow now do not. They are discovering what it means to be unremarkable. Some of them find it a relief. Some are still learning.
+
+> Lira's daughter is four years old. She runs through the garden. She asks why the flowers are called what they're called.
+
+> Lira does not have an answer, but she tries to find one.
+
+*[GM: Pause. Let the image settle. Then close your book.]*
+
+---
+
+### Ending D: One Year Later
+
+> *Varenhold, one year after the decision not to decide.*
+
+> The city is smaller. Two thousand more people left in the year after it became clear that the sun was not returning. Most of them went to the Dusk Parishes, where the conditions are similar but family ties ran deep. Some went to the Compact. A few went to places where the sky still moves through full day.
+
+> The ones who stayed are stayers. The old word. The highest compliment. The population is under thirty thousand now, but those thirty thousand are, on average, extraordinary at surviving hard things. The Spire is still working on alternatives. The grey sickness is still being managed. The amber lanterns are still being made.
+
+> The ten Dawnborn still live in the city they protect. They go about their lives. Lira's daughter starts school. Sera rescues someone from a fire on the Lowmark docks. Tomas arbitrates a dispute about fishing rights that nobody else could solve.
+
+> It is not the ending anyone wanted.
+
+> It is still a life.
+
+*[GM: Pause. Let the image settle. Then close your book.]*
+
+---
+
+### Ending E: One Year Later
+
+> *Varenhold, one year after the forced sunrise.*
+
+> The sun is real. The festivals were real. The first harvest under full light was real - a surplus, the first in fifty years, which the city wept over in the fields like grief instead of celebration, because abundance after long shortage always feels like grief first.
+
+> The city does not speak publicly about what it cost. The memorial exists - ten names, or fewer, depending on who agreed - but the official ceremony is brief and the Chancellor attends alone.
+
+> The Dawnborn who survived the ritual - the ones who chose - are remembered differently than the ones who didn't choose. The city knows, without saying it, that there is a distinction. It is uncomfortable to know this. The city lives with the discomfort.
+
+> Lira was last heard of in the Dusk Parishes. She may come back. She has not said.
+
+> The sun rises every morning. The players were part of that. They were also part of the other thing. Both are true.
+
+*[GM: Pause. Let the image settle. Then close your book.]*
+
+---
+
+### Ending F: One Year Later
+
+> *Varenhold, one year after nothing resolved.*
+
+> The sky is still amber. The grey sickness rate has stabilized - not improved, just stopped accelerating for now. The food stores are at thirty percent. The city has been here before.
+
+> The Dawnborn are still here. The ritual documents are in the Archive, or destroyed, or somewhere. The question of what Varenhold should do remains open. People argue about it. Some have stopped arguing and just live their lives.
+
+> There is a child in the Lowmark who has never seen sunlight and is eleven years old and knows the name of every lantern-carrier in the district and has strong opinions about which type of lumenbread is best. Her name is Essa. She does not know about the ritual. She does not know that the sky could have been different. She is growing up anyway, in the amber light, building a life out of what the city has.
+
+> This is also a kind of ending. The drum in the market square is playing. The same three beats.
+
+> Someone keeps time.
+
+*[GM: Pause. Let the image settle. Then close your book.]*
+
+---
+
+### The Last Line of the Campaign
+
+*After you read the epilogue, before the debrief begins, say this - or something like it:*
+
+> "That's the price of dawn. We'll take five minutes, and then I want to ask you all something."
+
+*Then give them five minutes. Let people get up, get water, breathe. The debrief works better when there's a brief silence between the story and the talking.*
+
+---
+
 ## The Debrief
 
 This is not optional. Do it after the epilogues. It takes 10-15 minutes and it is the best part.
