@@ -108,6 +108,110 @@ The three Dawnborn most publicly visible:
 
 ---
 
+## Working With Factions: Practical Guide
+
+*This section answers the questions players usually ask: how do I actually get in the door, what do they want from me, and what happens if I work with their enemies?*
+
+---
+
+### The City Council: Seeking an Audience
+
+**First contact:** Perrin, the Chancellor's aide (Highmark district, Council Hall). Young, perpetually behind on his correspondence, and genuinely sympathetic to people who are clearly trying to help rather than exploit.
+
+**Access check:** Getting a basic meeting with a Councillor is DC 12 (Persuasion or History to explain your credentials). Getting a private meeting with the Chancellor is DC 15 without a faction introduction; DC 10 with an introduction from any recognized faction leader.
+
+**What they ask in return:** Not money - the Council is not corrupt in the obvious sense. They ask for *clarity of purpose* and *not making things worse*. If you come to them with a problem, come with at least one proposed path forward. If you reveal information to them, understand that they will act on it according to Council priorities, not yours.
+
+**Loyalty cost:** Openly working with the Desperate or the Reckoning while maintaining a Council relationship requires DC 14 Deception or the relationship frosts significantly. The Council is not paranoid, but they notice.
+
+**Point of no return:** Leaking Council deliberations to the Restorers or Desperate, or taking unauthorized action that forces the Council's hand publicly. At that point the Council relationship becomes arm's-length at best.
+
+---
+
+### The Dawnborn: Building Trust
+
+**First contact:** Sera is easiest to approach - she's in public spaces, she's approachable, and she responds to directness. Tomas is accessible through his Highmark mediator's office. Lira is the most difficult initial contact; she's in the care houses, and she's protective of her patients' time.
+
+**Access check:** No formal check to *meet* a Dawnborn - they are public figures. Gaining genuine trust (the kind that opens up real conversation about the ritual and their feelings) is DC 12 Charisma (Persuasion or Insight) per Dawnborn after at least one substantive interaction. Some Dawnborn trust players more quickly based on shared background or demonstrated values.
+
+**What they ask in return:** Nothing explicit. What they respond to: people who treat them as people rather than symbols. Asking about their actual work (Lira's patient load, Tomas's current cases, Sera's district issues) rather than the ritual opens doors faster than any other approach.
+
+**Loyalty cost:** Dawnborn who see the players working with factions that want to compel the ritual (Reckoning especially) will not cut contact immediately, but they will become more guarded. Sera and Tomas will name this directly if asked.
+
+**Point of no return:** Different for each Dawnborn. For Sera: physically threatening another Dawnborn. For Tomas: deceiving him to obtain information. For Lira: putting her daughter in danger.
+
+---
+
+### The Restorers: Getting Vetted
+
+**First contact:** The Auris temple's public hall for Sevenday meetings; Wound-faction clergy (ask for the Sevenday coordinator, a woman named Vel). The Highmark "scholarly society" office for daytime access.
+
+**Access check:** Being seen at two consecutive Sevenday meetings without disruption is sufficient for basic Restorer contact. DC 10 Persuasion to be introduced to mid-level members. DC 14 to request a meeting with Edoran, even through an intermediary.
+
+**What they ask in return:** Patience during vetting, honesty about your connections (they already know who the players have met), and some demonstration of commitment to the cause - attending meetings, volunteering, or providing useful assistance before asking for useful information.
+
+**Loyalty cost:** Simultaneous close ties to the Merchants' Compact or Spire Scholars reads as suspicious. The Restorers will ask about it directly. Ties to the Council are acceptable (many Restorers also advocate through Council channels) if the players are clear about the distinction.
+
+**Point of no return:** Reporting Restorer internal information to the Council or Guard, or opposing the ritual in a way that damages the Restorer cause publicly.
+
+---
+
+### The Desperate: Earning Access
+
+**First contact:** Ask in the Lowmark honestly. Not "where are the Desperate?" - that gets a blank look. Ask about the food supply situation, the grey sickness numbers, what people think about the pace of restoration efforts. Someone will suggest you talk to someone who knows someone.
+
+**Access check:** DC 12 Persuasion or Insight to make initial contact and be received as potentially useful. DC 15 to be trusted with sensitive information without first demonstrating something. Having a useful skill (medical training, arcane ability, connections in other cities) reduces this by 3.
+
+**What they ask in return:** Genuine stakes. The Desperate are not interested in observers or people who want to feel helpful. If you can solve a specific problem they're facing - securing food supplies, treating grey sickness patients, delivering information they can't get themselves - you'll be trusted. If you arrive offering abstract support, you'll be politely ignored.
+
+**Loyalty cost:** Any visible cooperation with the Reckoning after their existence becomes known will damage Desperate relationship. The Desperate's membership includes people who strongly disapprove of Harran's methods.
+
+**Point of no return:** Reporting Desperate organizing to the City Guard.
+
+---
+
+### The Healers' Guild: Professional Access
+
+**First contact:** Walk into the Lowmark Healing House or the Guild headquarters in the Highmark. Say you want to help or have relevant expertise to offer.
+
+**Access check:** Automatic basic access. DC 10 Medicine or Persuasion for an introduction to senior Guild staff. Sevra Dain is approachable with 10 minutes' notice; she is unusually accessible for someone of her institutional authority.
+
+**What they ask in return:** Not causing problems. The Guild's neutrality is its most valuable asset. They will work with players who are trying to improve the situation, and they will stop working with players who are making things worse or who try to weaponize Guild access for factional purposes.
+
+**Loyalty cost:** None on normal terms. If players try to use Guild access to gather intelligence on patients, or leverage Guild relationships for political gain, Sevra will notice and the Guild will withdraw.
+
+**Point of no return:** Sharing confidential patient information without Guild authorization, or using the Guild's reputation to manipulate another faction.
+
+---
+
+### The Spire Scholars: Breaking Through the Bureaucracy
+
+**First contact:** Public lecture (Firstday afternoon). Faculty coffee hour (Fifthday morning). The library front desk for day-pass access.
+
+**Access check:** DC 12 Arcana or History to be taken seriously in academic conversation. DC 15 to get a private meeting with a senior scholar. DC 18 to access restricted research archives without formal Council authorization (Isolde Menth may shortcut this if the players have something she wants).
+
+**What they ask in return:** Questions that advance their work rather than just requesting hand-outs. The scholars respond to intellectual engagement more than any other approach. Presenting a new piece of evidence, offering a synthesis of information from outside the Spire, or demonstrating expertise in a relevant area all open doors that formal requests don't.
+
+**Loyalty cost:** The Spire has internal factions (Theorists vs. Practitioners). Getting deep access to one may not translate to access to the other. Keseph's division is a specific obstacle.
+
+**Point of no return:** Taking documents from restricted areas without authorization. Keseph will have the players flagged, and Council authorization can be revoked.
+
+---
+
+### The Merchants' Compact: The Transaction Approach
+
+**First contact:** Compact House (Highmark district), during business hours. State your business clearly.
+
+**Access check:** DC 10 Persuasion or History for basic access. DC 12 to access trade records for specific inquiries. DC 16 to meet with Saret Onn (the senior Compact figure) without a prior relationship or strong introduction.
+
+**What they ask in return:** Something of equivalent value. The Compact doesn't do favors. Information for information. Services for access. They are clear about this and will tell you what they want if you tell them what you want. The trade is usually fair.
+
+**Loyalty cost:** Being openly associated with the Desperate or Reckoning will freeze Compact access. The Compact wants stability. The Desperate and the Reckoning represent instability.
+
+**Point of no return:** Disrupting Compact trade relationships or using Compact trust to damage their reputation with trade partners.
+
+---
+
 ## Faction Relationship Map
 
 *A quick reference for who is aligned, tense, or indifferent with whom.*
