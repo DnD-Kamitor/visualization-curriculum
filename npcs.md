@@ -249,19 +249,408 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 
 ## The Ensemble Dawnborn
 
-The remaining seven Dawnborn are less central but each has a role. Use them as texture, secondary complications, and moral weight.
-
-| Name | Role | Response to the Truth |
-|------|------|----------------------|
-| **Petra Vane** | City messenger; fastest rider in Varenhold | Disappears when she finds out; found hiding in the Ashfen |
-| **Cormac Drell** | Dock master; keeps trade moving | Angry, then resigned; asks practical questions about the timeline |
-| **Ysel Maren** | Temple keeper of Auris; deeply religious | Believes this is the god's will; volunteering is her calling |
-| **Aldric Stone** | Blacksmith; no official role, just beloved | Refuses to believe it; requires multiple conversations |
-| **Nin Fletch** | Thief-turned-reformer; reformed criminal turned civic worker | Darkly pragmatic; "Well. That figures." |
-| **Orya Doss** | Cartographer; has mapped every inch of Varenhold | Processes it like a problem to solve; wants to negotiate an alternative |
-| **Davin Shore** | Retired soldier; oldest-seeming of the Dawnborn | Has been expecting something like this for years; remarkably calm |
+The remaining seven Dawnborn each have a full profile below. Use them as texture, secondary complications, and moral weight. All seven have the same Lux Anchor passive ability as Sera, Tomas, and Lira (see those entries for the mechanics).
 
 ---
+
+### Davin Shore - The Soldier
+
+> *"I've been watching things end my whole life. This is just the next one. The question is whether we get to choose how."*
+
+**OGAS Block**
+
+| | |
+|-|-|
+| **Occupation** | Retired soldier; now works as a night watchman in the Ashring quarter |
+| **Goal** | Have one more choice that matters before the choice is taken from him |
+| **Attitude** | Toward players: warm, direct, no games; he has been waiting for someone to ask the right questions |
+| **Secret** | He's been awake most nights for the past year, not from fear - from a low hum he can hear that no one else can. He thinks it's the ritual energy inside him. He thinks it's been getting louder. |
+
+**Personality:** Patient. Honest. Waiting.
+
+**Voice/Accent:** Low, unhurried. Soldier's economy of words - no sentence longer than it needs to be. Slight eastern accent from his original region.
+
+**Sample Dialogue:**
+
+*On the truth:*
+> "I figured it out about three years ago. Not the details - just the shape. Something inside us doesn't belong there and it's going to come out one way or another. Figuring it's sooner rather than later seems like the decent thing to do with that information."
+
+*On being willing:*
+> "I'm not brave about this. I'm just not afraid of the alternative. There's a difference."
+
+**Attitude Shift Table**
+
+| Player Action | Attitude Change |
+|--------------|-----------------|
+| Treat him as a person, not a resource | Deep trust; he advocates for the players to the other Dawnborn |
+| Dismiss his calm as passive | He goes quiet; doesn't argue; watches |
+| Tell him about the inversion pathway | The only thing in the campaign that genuinely surprises him. Long pause. Then: "That changes it." |
+| Ask about the hum he hears | He tells them. This is a significant trust moment. |
+
+---
+
+### Ysel Maren - The Believer
+
+> *"I have prayed to Auris every morning for fifty years. I have never once felt abandoned. I think I understand why now."*
+
+**OGAS Block**
+
+| | |
+|-|-|
+| **Occupation** | Temple keeper at the Auris Cathedral (Wounded faction nave); organizes the dawn-vigil services |
+| **Goal** | Find a way to make her willing sacrifice meaningful - specifically, to ensure it is understood as an act of faith, not an act of despair |
+| **Attitude** | Toward players: gentle, open, asks more questions than she answers; she is studying them |
+| **Secret** | She has not told the other Dawnborn that she already said yes to Edoran months before the players arrived. She has been waiting for someone to ask if her consent was genuine rather than assumed. |
+
+**Personality:** Serene. Curious. Deliberate.
+
+**Voice/Accent:** Calm, measured; the cadence of someone accustomed to public ritual. She speaks slowly and means every word.
+
+**Sample Dialogue:**
+
+*On her decision:*
+> "People keep asking me if I'm sure. I find it interesting that no one asks the soldiers if they're sure before they go to war. The difference seems to be that my choice is permanent. But so is theirs, often."
+
+*On Lira's refusal:*
+> "She's not wrong. I'm not right and she's not wrong. We're two people who have the same facts and reach different conclusions. That is allowed to happen."
+
+**Attitude Shift Table**
+
+| Player Action | Attitude Change |
+|--------------|-----------------|
+| Ask whether her consent was genuinely free | She is moved. +2 trust immediately. "Thank you for asking that." |
+| Argue theology with her | She engages seriously; respects intellectual engagement |
+| Try to change her mind | She listens completely and then: "I've considered that. I've considered that for six months." End of topic. |
+| Discover she told Edoran yes months ago | She acknowledges it without shame: "Yes. I wanted to be sure I wasn't deciding in panic." |
+
+---
+
+### Orya Doss - The Cartographer
+
+> *"Every map is a picture of what someone thought was worth knowing. The question is always: whose priorities made it onto the page."*
+
+**OGAS Block**
+
+| | |
+|-|-|
+| **Occupation** | Cartographer; produces Varenhold's official maps and has informally mapped every accessible location in the city |
+| **Goal** | Find an alternative - not from self-preservation, but because she believes the problem has been inadequately mapped and a better solution exists if someone is willing to look |
+| **Attitude** | Toward players: curious, analytical, initially reserved; she's assessing whether they'll think clearly under pressure |
+| **Secret** | Her maps of the Spire Quarter include a subbasement level that the Spire has never acknowledged. She found it by measuring discrepancies in the building's external and internal dimensions. She doesn't know what it contains. |
+
+**Personality:** Precise. Lateral. Reserved.
+
+**Voice/Accent:** Measured academic speech; a habit of pausing to check her mental map of something before speaking. She uses spatial metaphors.
+
+**Sample Dialogue:**
+
+*On the situation:*
+> "The ritual is described as having one solution. Every map of a territory that shows only one path is wrong. Either there are paths that haven't been found, or the territory is being described incorrectly. Probably both."
+
+*If shown Tomas's Asymmetry Journal:*
+> "The surge-phase differential. I wondered about that - I noticed three of us always seemed to brighten rooms more than others, but I didn't have the vocabulary to describe it." *(Pause.)* "This is a problem with two feasible solutions and four infeasible ones. I prefer to focus on the feasible ones."
+
+**Attitude Shift Table**
+
+| Player Action | Attitude Change |
+|--------------|-----------------|
+| Bring her new data or a new analytical angle | She lights up; becomes an active ally |
+| Dismiss the alternative paths she proposes | She doesn't argue; she stops proposing |
+| Ask about the Spire subbasement | She shows them the maps. DC 15 Arcana to determine what the space is for. |
+| Put her in a situation where she must choose quickly | She freezes briefly; she needs time to map it. Give her 60 seconds. |
+
+---
+
+### Cormac Drell - The Wavering One
+
+> *"I said I was ready. I think I meant it. I'm not sure I still mean it. I don't know if that's allowed."*
+
+**OGAS Block**
+
+| | |
+|-|-|
+| **Occupation** | Dock master; manages Varenhold's river port and the barge traffic that keeps the city fed |
+| **Goal** | Figure out what he actually believes, as opposed to what he said he believed three weeks ago when he told Edoran yes |
+| **Attitude** | Toward players: uncertain trust; he's hoping they'll help him think, not tell him what to think |
+| **Secret** | He told Edoran he was willing nine weeks ago, before the full implications of "all ten simultaneously" were understood. Now he knows the inversion pathway requires his full commitment - willing means willing, not willing-ish - and he's not sure he has it. Telling anyone he's wavering will collapse the mathematics of who's voluntary. |
+
+**Personality:** Practical. Honest. Struggling.
+
+**Voice/Accent:** Dock worker's directness; working-class speech, short sentences. He says exactly what he's thinking, which is currently a problem because what he's thinking is in conflict with itself.
+
+**Sample Dialogue:**
+
+*On wavering:*
+> "I gave my word. I mean it. I think I mean it. The thing is - and I know this is stupid - I keep thinking about who's going to run the docks after."
+
+*If the players find out he's wavering:*
+> "Don't tell Ysel. Or Edoran. Not yet. Give me a day." *(A beat.)* "I'm not backing out. I just need to say it to myself in a way that stays said."
+
+**Attitude Shift Table**
+
+| Player Action | Attitude Change |
+|--------------|-----------------|
+| Listen without judging | Trust; he tells them the full extent of his wavering |
+| Tell him what to decide | He shuts down; makes the decision alone and doesn't share it |
+| Connect him with Davin (who is calm about this) | Davin's influence is the most stabilizing; consider this player agency |
+| Expose his wavering to Edoran | He makes a decision immediately under pressure; it may not be the decision he'd have made with time |
+
+---
+
+### Aldric Stone - The Blacksmith
+
+> *"I'm not saying I don't believe you. I'm saying I need you to prove it again. Maybe three more times."*
+
+**OGAS Block**
+
+| | |
+|-|-|
+| **Occupation** | Blacksmith; runs the most respected forge in the Lowmark |
+| **Goal** | Find the flaw in the argument - not because he's in denial, but because that's how he approaches everything: find the weak joint, test it |
+| **Attitude** | Toward players: skeptical, fair, willing to be convinced; he applies the same standard to their claims as to a bad weld |
+| **Secret** | He cried for three hours alone the night he was convinced the truth was real. He has not told anyone because he is acutely aware of how other people perceive him and does not want his position to be characterized as emotional. The decision he eventually makes will be made rationally, but the grief underneath it is genuine. |
+
+**Personality:** Skeptical. Methodical. Private.
+
+**Voice/Accent:** Deep, unhurried; forgehand's physical presence. He speaks as if each sentence has been tested before use.
+
+**Sample Dialogue:**
+
+*On first hearing the truth:*
+> "That's an extraordinary claim. What's your evidence? Not the documents - what's the direct, testable evidence? The documents could be forged."
+
+*When finally convinced (after significant evidence):*
+> "Alright." *(Long pause.)* "I'm going to need a day." *(He does not explain what the day is for. He needs it for the three hours.)*
+
+**Attitude Shift Table**
+
+| Player Action | Attitude Change |
+|--------------|-----------------|
+| Provide physical, demonstrable evidence (e.g., the Primer Stones, the Lux Anchor glow observation) | He accepts it; no further argument |
+| Show him the Primer Stone inscription | The physical evidence plus the inscribed text together are sufficient |
+| Let him test the claims on his own | He comes back 24 hours later with results; he's more certain than the players |
+| Discover he cried and keep it private | +2 trust; he does not forget this |
+
+---
+
+### Nin Fletch - The Reformed One
+
+> *"I've been on the wrong side of decisions like this before. I know what I'm looking at."*
+
+**OGAS Block**
+
+| | |
+|-|-|
+| **Occupation** | Civic coordinator; manages the Dawnhall supply distribution records and volunteers as a community mediator |
+| **Goal** | Make a decision that he won't have to be ashamed of later - he's spent years building a reputation that he cares about |
+| **Attitude** | Toward players: wary initial trust; former criminals recognize certain kinds of intent quickly, and he's reading them |
+| **Secret** | In his pre-reform years, he was involved in a theft from the Archive that removed a document he was paid to steal. He doesn't know what the document was. He does know the client was connected to the Compact. He has been waiting for this to come up for fifteen years. |
+
+**Personality:** Pragmatic. Watchful. Self-aware.
+
+**Voice/Accent:** Working-class street accent, filed down by years of civic work but still visible under pressure. Economy of words; a thief's habit of not saying more than necessary.
+
+**Sample Dialogue:**
+
+*On the moral question:*
+> "You want to know if I'll volunteer? I'll tell you what I told myself: I've made choices that hurt people when I didn't have to. If there's a way this doesn't have to hurt anyone, I'm for that. If there isn't, then I'm looking at which kind of hurt I'm willing to be part of."
+
+*On the Archive theft:*
+> *(Only if directly confronted.)* "That was a long time ago. I don't know what it was. If it matters now, I'll help you find it. That's the best I can do."
+
+**Attitude Shift Table**
+
+| Player Action | Attitude Change |
+|--------------|-----------------|
+| Treat his past as irrelevant to his current character | Strong trust; he's worked hard for this |
+| Use his past as leverage | Permanent suspicion; he expects this and it confirms his worst reading of people |
+| Ask him to help with the Archive theft investigation | He cooperates fully; this is overdue |
+| Involve him in community-level decisions | He's excellent at this and knows it |
+
+---
+
+### Petra Vane - The Missing One
+
+*(Full stat block in Session 4. Summary here for NPC reference.)*
+
+> *"I left because I couldn't make this decision in the city. I don't know if I can make it anywhere."*
+
+**OGAS Block**
+
+| | |
+|-|-|
+| **Occupation** | Herbalist; runs a small shop in Greenhollow village in the Dusk Parishes |
+| **Goal** | Find a form of peace with this situation that doesn't require her to choose immediately |
+| **Attitude** | Toward players: cautious gratitude (they looked); toward the situation: exhausted resignation slowly turning toward something that might be a decision |
+| **Secret** | She has been sending money anonymously to Lira Anwick's daughter for two years. She and Lira had a friendship that fractured over a disagreement about the Restorers; the payments are an acknowledgment of something she can't say directly. Lira suspects but has not confirmed. |
+
+**Personality:** Cautious. Thoughtful. Overwhelmed.
+
+---
+
+## Supporting NPCs
+
+These NPCs do not have featured roles in specific sessions but appear throughout the campaign and have their own logic. Know their OGAS before playing them.
+
+---
+
+### Sevra Dain - Healers' Guild Master
+
+> *"I have been watching this city die slowly for fifteen years. I am not interested in euphemisms about 'managing' or 'stabilizing.' Tell me what's actually going to happen."*
+
+**OGAS Block**
+
+| | |
+|-|-|
+| **Occupation** | Guild Master of the Healers' Guild; practicing healer at the Lowmark Healing House |
+| **Goal** | Stop the grey sickness from killing more people than it has to - which, in her view, is any number above zero |
+| **Attitude** | Toward players: professional respect that becomes real trust if they demonstrate competence and honesty |
+| **Secret** | She has been tracking a pattern in grey sickness progression that suggests an environmental cause specific to the Lowmark waterways. She hasn't reported it because she doesn't know what to do with the information and is afraid of the political consequences of a water supply problem on top of everything else. |
+
+**Personality:** Direct. Competent. Quietly furious.
+
+**Voice/Accent:** Efficient speech; healer's precision with language - she means exactly what she says, no decorative phrases. Lowmark accent, maintained deliberately.
+
+**Sample Dialogue:**
+
+*On the situation:*
+> "The grey sickness rate has increased 23% in the last two years. The Council's official numbers are 15%. I know this because I count my own patients. Whoever is managing the numbers down is not helping."
+
+*If asked about Lira's daughter:*
+> "I delivered that child. That information is confidential. If Lira wants you to know, she'll tell you."
+
+**Attitude Shift Table**
+
+| Player Action | Attitude Change |
+|--------------|-----------------|
+| Bring her information that improves patient outcomes | Strong trust; she will share everything she knows |
+| Work in the Healing House voluntarily | She notices; treats players as colleagues |
+| Use her information without acknowledgment | She remembers; does not share again |
+| Investigate the waterway data she has been sitting on | She gives them the complete data and is relieved someone is dealing with it |
+
+---
+
+### Isolde Menth - Spire Scholar, Transfer Method
+
+> *"The energy is the problem. The Dawnborn are the container. A good engineer asks: can we change the container?"*
+
+*(Stat block in Session 3. Summary for ongoing NPC reference.)*
+
+**OGAS Block**
+
+| | |
+|-|-|
+| **Occupation** | Senior Scholar, Spire Theoretical Division; inventor of the Lux Anchor transfer method |
+| **Goal** | Verify her transfer method in time to be a real option; she is acutely aware that her solution requires the Cathedral and that the Cathedral's politics are a separate problem |
+| **Attitude** | Toward players: collegial, professional; she respects competence and wastes no time on anything else |
+| **Secret** | Her mortality estimate for the ritual's destructive path (presented to players in Session 3 as 35-55%, not the stated 20-30%) also applies to her transfer method: a 15-20% probability that one or two Dawnborn anchors become unstable during transfer and the process completes destructively. She knows this and has been trying to resolve it. She has not yet succeeded. |
+
+---
+
+### Maret Lonn - Swing Vote Councillor
+
+> *"I was a Spire Scholar for twelve years. I know when I'm being managed. Don't manage me."*
+
+**OGAS Block**
+
+| | |
+|-|-|
+| **Occupation** | City Councillor for Education and Archive oversight; former Spire Scholar |
+| **Goal** | Cast the vote she would be able to defend to herself afterward - she is not yet sure which one that is |
+| **Attitude** | Toward players: evaluating; she is reading them carefully and will not commit until she's ready |
+| **Secret** | She knows about Keseph's Solennite funding. She has known for two years. She was building a case against him and then the Dawnborn crisis made it irrelevant in her priority order. She has the documentation. She has not used it. |
+
+**Personality:** Analytical. Deliberate. Unapologetic.
+
+**Sample Dialogue:**
+
+*On the ritual vote:*
+> "I am going to read everything available and make a decision I can defend. I would appreciate it if people stopped trying to tell me what that decision should be, including people who think they're not doing that."
+
+*If given Keseph's evidence by players:*
+> *(Reviews it carefully.)* "This is complete." *(Pause.)* "Why are you giving this to me?" *(Whatever the players say, she files it precisely where it belongs in her mental map.)*
+
+**Attitude Shift Table**
+
+| Player Action | Attitude Change |
+|--------------|-----------------|
+| Give her information and let her draw conclusions | Strong trust; she decides accordingly |
+| Tell her what to conclude | She does not change her position and reduces cooperation |
+| Share Keseph's evidence with her | She will act on it, in her own time, in her own way |
+| Ask what she needs to make her decision | She tells them exactly; it is actionable |
+
+---
+
+### Harrow Seld - Parish Delegate
+
+*(Summary; more detail in Session 4's world-lore and Milestone 7.)*
+
+**OGAS Block**
+
+| | |
+|-|-|
+| **Occupation** | Parish delegate from Greenhollow; de facto representative of the Dusk Parishes |
+| **Goal** | See the sun return before another Parish child grows up without knowing what it looks like |
+| **Attitude** | Toward players: assessing whether they're more of the same or actually different |
+| **Secret** | He watched his son stop eating three months ago - not from starvation, from grey sickness's late-stage apathy. His son is fourteen. The medical prognosis is not good. He has not told anyone in Varenhold because he is afraid of what it will do to his ability to advocate rationally. |
+
+---
+
+### Erem of Saltgrass - Ashfen Wadewalker
+
+*(Summary; more detail in Milestone 7.)*
+
+**OGAS Block**
+
+| | |
+|-|-|
+| **Occupation** | Senior Wadewalker of the Saltgrass Clan; ecologist, magical practitioner, and the most informed external observer of the twilight's mechanism |
+| **Goal** | Have the Spire acknowledge that her theory was correct, and have the marsh birds come back |
+| **Attitude** | Toward players: reserved until they demonstrate genuine respect for Clan knowledge; then frank and forthcoming |
+| **Secret** | Her theory about the "sympathetic void" - the correct theory the Spire dismissed - was not developed entirely by her. She developed it in collaboration with a Spire Scholar who died fifteen years ago. His name is not on the work. She does not know if this matters. |
+
+---
+
+### Renn Vask - Reckoning Defector
+
+> *"I believed in what Harran was saying. I still believe in what Harran was saying. I stopped believing in what Harran was doing."*
+
+**OGAS Block**
+
+| | |
+|-|-|
+| **Occupation** | Former Reckoning operative; currently hiding in the Ashfen Gate inn district |
+| **Goal** | Warn someone about what Harran actually knows - specifically, the Chancellor's advance warning and who else in the city she has been talking to |
+| **Attitude** | Toward players: desperate trust; he's been trying to talk to someone credible for two weeks |
+| **Secret** | He overheard a conversation between Harran and a Council aide that he didn't fully understand. The Council aide was not Torsten (the Chancellor's public aide). He doesn't know who it was. The conversation mentioned a "contingency" and a "timing" and a specific location that Renn now believes is a secondary ritual site the Council has identified in case the Ashring is compromised. |
+
+**Personality:** Frightened. Honest. Specific.
+
+**Sample Dialogue:**
+
+*On what he heard:*
+> "I don't know what the 'contingency' is. I know it was being coordinated between Harran's intelligence and someone in the Council who isn't supposed to know Harran exists. That's the part I can't explain and can't stop thinking about."
+
+**Finding Renn:** He is in the Wanderer's Rest inn, registered under a false name. Helka knows he's been there for two weeks and is waiting to leave but can't. She'll tell the players if they've earned trust with her.
+
+---
+
+## NPC Relationship Web
+
+*Use this table when players try to leverage one NPC against another, or to understand how information travels.*
+
+| NPC | Strong Ally | Tension/Complication | Unknown/Neutral |
+|-----|------------|---------------------|-----------------|
+| **Chancellor Ostenveld** | Ashby (loyal), Holt (useful) | Solm (moralist opposition), Maret (unpredictable) | Edoran (secret contact) |
+| **Theron Waide** | Maret Lonn (former Spire peer) | Keseph (institutional rival) | Renn Vask (doesn't know he exists) |
+| **Brother Edoran** | Ysel (willing ally), Davin (converging positions) | Jaret's Fanatics (can't control), Lira (opposed) | Annem's memorial (he doesn't visit) |
+| **Sera Voss** | Tomas (trust), Aldric (protective of) | Chancellor (institutional), Restorers (suspicion) | Harran (doesn't know about the Chancellor contact) |
+| **Tomas Areth** | Sera, Orya (intellectual partner) | Chancellor (formal relationship cooling) | Renn Vask (hasn't met) |
+| **Lira Anwick** | Sevra Dain (trust), Aldric | Ysel (fractured over willing/unwilling) | Petra Vane (anonymous payments) |
+| **Isolde Menth** | Players (if trust built) | Keseph (active obstruction) | Harran (doesn't know) |
+| **Keseph** | Solennite funders | Maret Lonn (she has his evidence), Isolde (professional rival) | Renn Vask (does Keseph know about Renn?) |
+| **Saret Onn** | Helka (information network) | Compact's conflicting interests | Renn Vask (doesn't know) |
+| **Sevra Dain** | Lira, Morthis clergy | Council (neutral professionally) | Erem (met once, respected, lost contact) |
 
 ## Using NPCs at the Table
 
