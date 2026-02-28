@@ -610,6 +610,50 @@ Sevra has not published this theory because publishing it would be interpreted a
 
 ---
 
+### The Lost Generation: Ten Names
+
+*Three thousand people died in the Desperate Winter of Year 22 alone. Statistics are how institutions understand this. Here is how it was.*
+
+---
+
+**Annem Edoran, 17, Year 44**
+Edoran's daughter. Wanted to be a Spire scholar - she had the aptitude and enough stubbornness to get there despite having the wrong family background for it. Stage 2 by fourteen. Stage 3 at sixteen. She died in the back room of the Lowmark Healing House, in the care of practitioners she knew by name, which was at least that. Her father has never been back to that room. The memorial in the Great Dawnhall has her handwriting on a small piece of paper: a list of Spire scholars she was going to surpass.
+
+**Verin Thal, 31, Year 23**
+The Spire scholar who wrote the first theoretically interesting paper on the Dawnborn's nature (Document A, referenced in the Deep Archive). He died in the Desperate Winter before anyone realized how close his third hypothesis was to the truth. His paper was filed and mostly forgotten. One junior scholar kept a copy. That junior scholar is Isolde Menth.
+
+**Cova Drell, 45, Year 23**
+Cormac Drell's father. Dockworker, one of the people who watched the Night of the Ritual from the plaza crowd. Died of Stage 3 grey sickness in Month 4 of Year 23, three months into the Desperate Winter. Cormac was ten years old. He has his father's dock journal - daily logs, weather observations, cargo notes - going back twelve years. He reads a few pages every month. He never explains why.
+
+**Marta, age unclear, Year 12**
+Sera Voss's childhood friend, born the same night, also Dawnborn. The only Dawnborn to die in childhood. She was twelve. The grey sickness took her faster than it should have - the Healers' Guild doesn't fully understand why; current theory is that the Lux Anchor energy interacts differently with bodies in development. Sera has a letter she wrote to Marta that she never sent. It's in her desk.
+
+**Yvette Morr, 63, Year 18**
+The Healers' Guild practitioner who wrote the first formal report naming the grey sickness (Document A2 in the Deep Archive). She died of the condition she named. Sevra Dain was her apprentice. Sevra keeps a portrait of her in the care house office. When new Guild practitioners start, Sevra tells them: *she stayed when she could have left. She didn't have to. She chose to.*
+
+**Harren's son, name unknown, Year 30**
+Harren and his family left Varenhold in Year 8 (see Document A6 in the Deep Archive). The boy who triggered their departure had Stage 1 grey sickness and Harren hoped he'd recover in a different climate. He slowed. He didn't stop. He died in the Dusk Parishes at age 22. Nessa in the Lowmark doesn't know this. She assumes they're still out there somewhere.
+
+**Nara Ash, 40, Year 15**
+Corven's wife. She was not a scholar and was not involved in the ritual. She stayed in Varenhold after his death, worked as a teacher in the Dawnhalls district, and died of Stage 3 grey sickness fifteen years later. She never spoke publicly about Corven. When students asked - and they did, because students do - she said: *he meant well. So do most people who make things worse.* She said this without bitterness. Students remembered it.
+
+**Joss, 8, Year 22**
+A child in the Lowmark. The memorial room in the Great Dawnhall has a drawing of a bird he made, donated by his mother. It's a bad drawing. He was eight. The bird looks more like a hat with legs. Nessa keeps it in the center of the wall because it's the thing visitors' eyes go to first, and she believes that's right - not because it's beautiful, but because he was eight and he should have had more time for his drawing to get better.
+
+**Scholar Innis, 90, Year 35**
+One of the five people who witnessed the Night of the Ritual (see the Last Day Before section in world-lore.md). He spent the next thirty years trying to make mathematical sense of his instrument readings from that night. He never succeeded. He left his notes to the Archive. Theron catalogued them. They're in the restricted section, not because they're classified, but because Theron couldn't figure out where else to put them.
+
+**Dessa Fletch, 51, Year 45**
+Nin Fletch's mother. Nin is one of the Dawnborn. Dessa knew, from the time Nin was a teenager, that her child might be part of the ritual. She never told Nin she knew. She died of Stage 2 grey sickness - managed well, she had access to compound, she was functional right up until the last month. Nin was at her bedside. In the last week, Dessa said: *whatever you decide, I'm proud of it. Both decisions. I'm proud of both in advance.* Nin has not told anyone this. It's the thing she's still deciding what to do with.
+
+---
+
+*The care house in the Lowmark has a wall where practitioners write names. The wall is full. They started a second wall. It's half full.*
+
+*The memorial room in the Great Dawnhall has photographs, letters, and objects. Nessa maintains it. She says the hardest part is when someone brings her a photograph of someone very young. She says she never gets used to it. She says she has been not getting used to it for thirty years.*
+
+---
+
 ### The Spire Scholars
 
 **What they want:** Academic reputation, research funding, and the credit for solving the twilight if it gets solved.
