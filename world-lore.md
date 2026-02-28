@@ -30,6 +30,57 @@ The light has changed since.
 
 ---
 
+## The Last Day Before
+
+*The day before the ritual. Not history - memory. Five people who were there.*
+
+---
+
+It was hot.
+
+That's the thing nobody writes down in the history books because it seems too small, but the people who were there say it first: it was hot, that last day. A late-summer heat with no wind, the kind that makes stone walls feel warm even after dark. The market smells were stronger than usual - preserved fish, lamp oil, the sweetness of the amber-lantern workshops at full production in the Dawnhalls district. Shadows everywhere. Long ones in the morning, short ones at noon, long again by afternoon, the specific way a shadow tells you where the sun is by its direction and angle. Nobody thought about this. Why would they?
+
+Children played in the plaza near the Ashring. The ritual stones had been installed three years before and were still new enough that parents were careful about letting kids climb on them - the Spire had put up signs asking people not to touch the Primer Stones, and most people respected this in the way you respect a sign when you're an adult. The children didn't respect it. Sera Voss was born at 11:47 that night. She weighed seven pounds.
+
+The amber-lantern workshops in the Dawnhalls district ran a full shift. There was a concert in the Amber Hall at seven - the conductor was introducing a new work, something composed specifically for a particular calibration of warm light. The Amber Hall sold out months in advance. Forty-two people stood outside waiting for returns that didn't come. Most of them went home. A few stayed and watched the light from the Hall's windows and listened through the walls.
+
+The Archive closed at five. Theron Waide, twenty-two years old and two months into his position as Archive Assistant, was the last person to lock the lower floors. He took the long route to the exit because he always liked the smell of the old paper in the east stacks. He was outside by five-thirty, in the heat, walking home to the Spire Quarter. He remembers thinking about dinner.
+
+At 10 PM, the Archmagister lit the first of the Primer Stones.
+
+---
+
+*Five people who saw the Night. Fifty words each.*
+
+---
+
+**Nessa, age 30, Lowmark resident - now 80, maintains the Dawnhall memorial room:**
+
+> The light from the Ashring was visible from my window. Blue-white at first, then amber, then I don't have a word for what it turned into. The ground felt strange. Like the city was breathing differently. Then it stopped. And the next morning - no sun. My neighbor knocked on my door and said: "Something's wrong." I said I knew.
+
+**Cova Drell, age 45, dockworker and father of Cormac - died Year 23:**
+
+> I was at the Ashring. Watching with the others. Thousands of us. The Archmagister was brilliant - even from the back of the crowd you could feel what he was doing. Then something tore. The air tore. And all the babies in the Lowmark started crying at once. All of them. I had never heard anything like it. I didn't sleep until the second day.
+
+**Scholar Innis, age 60, retired from the Spire - died Year 35:**
+
+> I was in the Spire watching through instruments. My job was to record the ambient field readings. The readings were consistent with Corven's predicted model right up until Step 9. At Step 9, every instrument I had went to maximum and held. I still have the charts. The numbers on them are impossible under any theory I understand. I've spent thirty years trying to understand them.
+
+**Hessa, age 19, Auris temple novice at the time of the Night:**
+
+> The High Priest was praying in the Cathedral when the ritual began. He stopped mid-word. We all felt it - not pain, something stranger. Like the air had decided something. He turned to us and said: *Auris is moving.* I've thought about those words for fifty years. Moving toward what? Moving away? I don't know. I don't think he knew either.
+
+**Aldric Stone, age 0, Dawnborn - born during the Night:**
+
+> *(Interviewed Year 48; Aldric was told the birth story by his mother before she died in Year 31.)*
+> She said I was early. She said the labour started when the light from the Ashring changed - she could see it from the hospital window. She said I came out facing the wrong direction, which apparently meant something in old Varenholder midwifery tradition. She said I glowed faintly for about three days. She thought that was beautiful. She never stopped thinking that was beautiful.
+
+---
+
+![The last morning before the Night - Varenhold's market plaza, lanterns not yet lit, shadows long in real sunlight for the last time, people going about their day unaware](images/varenhold-last-morning.svg)
+
+---
+
 ## Varenhold Through Time: A 250-Year Chronology
 
 *Varenholders do not count years from a monarch's birth or a founding charter. They count from the Night of the Ritual - Year 0, the night the sun stopped rising. Everything before that is "Before" (abbreviated B), everything after is numbered.*
