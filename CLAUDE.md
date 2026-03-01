@@ -343,8 +343,9 @@ The campaign book supports embedded audio via piper-sample-generator. Audio file
 ```
 
 Available models:
-- `voices/en_US-lessac-medium.onnx` — American English, medium quality, single speaker. Reliable, fast.
-- `models/en-us-libritts-high.pt` — Multi-speaker PyTorch model, higher quality, supports speaker blending. Requires more memory.
+- `voices/en_US-ryan-high.onnx` — **Preferred for this campaign.** Deep American male voice, high quality. Heavy, authoritative, appropriate for dark fantasy narration.
+- `voices/en_US-lessac-medium.onnx` — American English female voice, medium quality. Lighter tone.
+- `models/en-us-libritts-high.pt` — Multi-speaker PyTorch model, supports speaker blending. Requires more memory.
 
 ### Quick Start
 
@@ -353,8 +354,9 @@ cd /home/chris/Documents/Projects/piper-sample-generator
 source .venv/bin/activate
 
 python3 generate_samples.py "Your text here." \
-  --model voices/en_US-lessac-medium.onnx \
+  --model voices/en_US-ryan-high.onnx \
   --max-samples 1 \
+  --length-scales 1.1 \
   --output-dir /home/chris/Documents/Projects/visualization-curriculum/audio/
 ```
 
