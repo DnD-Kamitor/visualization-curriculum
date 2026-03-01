@@ -94,6 +94,53 @@ At the end of each session, ask the players the session's question directly. Not
 
 ---
 
+## Running the Character Interview
+
+The Player's Guide contains a ten-question character interview for players to answer before Session 1. This section tells you how to use what they give you.
+
+### How to Run It
+
+Do this one player at a time, ideally before session zero — a quick five-minute call or a short message exchange works fine. You're not collecting information. You're listening for the things they don't say.
+
+**Ask the question. Let them answer. Ask one follow-up.**
+
+The follow-up is always a version of: *"What did that feel like for your character?"* or *"What did they do with that?"* You're pushing from the event into the person.
+
+Don't take notes during. Write down the one or two things that stuck after.
+
+---
+
+### What Each Question Is Actually Finding
+
+| Question | What You're Listening For |
+|----------|--------------------------|
+| The surprise on arrival | What they're comparing Varenhold to — tells you their frame of reference and what's missing from it |
+| The gate voice | Whether they're someone who notices details or someone who creates them from nothing — both are good |
+| The painting | Their emotional relationship to loss and the absent sun — some characters mourn, some intellectualize, some refuse |
+| The Dawnborn (honest) | The belief they're bringing in that the campaign will stress-test — admiration breaks one way, suspicion breaks another |
+| The named person | Whether they root themselves in relationships or in abstract commitments — who they'd call if things went badly |
+| The grey sickness contact | How close to the city's central wound they want to be positioned — their proximity to the campaign's grief |
+| The Cormac story | What they value in other people — grace under the weight of being something significant, or its absence |
+| The faction question | Where their patience ends — this determines how quickly they turn toward or away from the Desperate |
+| The blame question | Whether they think cleanly or messily about cause and responsibility — this shapes the whole Session 3 reveal |
+| The line | The thing the campaign will reach for. You now know where it is. Keep that information, and don't use it cheaply. |
+
+---
+
+### What to Do With What You Learn
+
+Before Session 1, you should know three things for each player:
+
+- **Their want** — what they're there for, underneath the stated reason
+- **Their fear** — what they're most afraid of discovering (not monsters; the human version)
+- **Their lie** — what they believe about this city, or themselves, that won't survive contact with the truth
+
+The interview gives you these without asking for them directly. The player who says "I blame the Archmagister and yes, that's fair, someone has to be responsible" is different from the player who says "I blame the Archmagister and I know it's not fair but it's easier." Play the NPCs accordingly. Let the city push on the thing each player revealed.
+
+The most important thing: whatever they named as their line — the thing they won't do even if it's right — don't forget it. That's the scene you're building toward.
+
+---
+
 ## Consequence Tracking
 
 This campaign is built on consequences. Every session guide ends with a tracking table - fill it in, carry it to the next session, and let it shape how NPCs behave. Players notice when their choices matter. They notice more when they don't.

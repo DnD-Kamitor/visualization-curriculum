@@ -273,12 +273,110 @@ Ask your GM to share the relevant prompt file so you can use it between sessions
 
 ---
 
+## The Character Interview
+
+*Do this before Session 1, ideally one-on-one with your GM. Ten minutes. Answer out loud, not in writing — the answers change when you say them.*
+
+*Your GM isn't collecting backstory. They're listening for who you are. There are no wrong answers, but there are boring ones — you'll know if you're giving one.*
+
+---
+
+### Part One: Arriving
+
+**1. You've been in Varenhold a few days. What surprised you?**
+
+Not the twilight — you knew about that. Something smaller. The way people here do a specific thing you didn't expect. A smell you weren't prepared for. The sound the city makes at 3 AM. Something about the market. What was it?
+
+*(What you notice tells us what you're comparing it to — which tells us where you came from and what you're missing.)*
+
+---
+
+**2. You came through one of the city gates. Someone was there — a guard, a vendor, a child waiting for someone — and they said something to you. Not important. Just something.**
+
+What was it?
+
+*(It doesn't need to mean anything. It just needs to be specific. The first voice of the city.)*
+
+---
+
+**3. There's a painting in the Lowmark care house. "Lowmark Market at Noon, Year 0 (Before)" by Ceva Doss. It shows the market in real sunlight — the light comes from the left, high up, shadows pointing right, people squinting. You've heard about it, or you've seen it.**
+
+What do you feel when you look at something that shows a world you've never seen and never will?
+
+*(This is the campaign's central loss in a single painting. How your character carries it is everything.)*
+
+---
+
+### Part Two: People
+
+**4. The Dawnborn are beloved in Varenhold. Beloved the way certain people become beloved — protectors, healers, the ones who show up. Before this campaign begins, before you know anything about the ritual or the cost — what do you actually think of them?**
+
+Not what you'd say in public. The honest version, the one you've never said out loud.
+
+*(Some characters admire them. Some are suspicious of anyone who is too beloved. Some feel something more complicated — longing, or shame, or a protectiveness they can't explain.)*
+
+---
+
+**5. Someone in Varenhold already knows your character exists before you arrive. Not a faction. A person — first name, last name. Maybe someone you know well. Maybe someone you've only heard of.**
+
+What's one thing they said to you the last time you saw each other?
+
+*(If you don't have anyone, invent someone. A contact you've never met but who knows you're coming. The name your character would look for in the first few days.)*
+
+---
+
+**6. Someone in your character's life has the grey sickness. Stage 1 or 2 — early enough that they're still mostly themselves. It could be a stranger. It could be someone you barely know. But it can't be nobody.**
+
+Who? And what does your character do when they see it — the slight lag, the slight grey, the beginning?
+
+*(The grey sickness is Varenhold's grief made visible. How your character responds to it is how they respond to the fact that the world is already partway through losing.)*
+
+---
+
+**7. Cormac Drell is a Dawnborn dockworker — one of the ten, but not famous for it. He doesn't talk about being Dawnborn. He just works. At some point before the campaign, your character crossed paths with him, or with someone who knew him, or with his reputation in a specific district.**
+
+What did you hear? What's the one-sentence story someone told you about Cormac Drell?
+
+*(Cormac is the campaign's version of ordinary grace. What your character makes of that — admiration, confusion, dismissal — tells us something about what they value.)*
+
+---
+
+### Part Three: The Real Stuff
+
+**8. The Restorers believe the sun must be restored and that moral hesitation is a luxury the city can't afford. The Desperate believe the same thing, but they've stopped waiting for anyone's permission. The Council says they're working on it.**
+
+Which of these sounds closest to right? Which one makes your character most uncomfortable?
+
+*(These aren't just factions. They're positions on the question: when is it okay to stop being patient?)*
+
+---
+
+**9. The twilight has been here for fifty years. Someone made decisions that led here — the Archmagister who designed the ritual, the Council who commissioned it, the Auris faith who approved it, or just the accumulation of a hundred small choices nobody thought were important.**
+
+Who does your character blame? And is that fair, or is it just the story they need to tell?
+
+*(This question is about how your character handles the absence of a clean villain. This campaign has no clean villains. How they navigate that tells us everything.)*
+
+---
+
+**10. Last one. You don't have to answer out loud if you don't want to. But you have to know the answer.**
+
+What would your character refuse to do, even if they believed it was the right thing? Not *can't*. **Won't.** What is the line they won't cross, even at cost?
+
+*(The campaign is going to find this line. Every campaign does. Know where yours is before you start.)*
+
+---
+
+*These answers aren't fixed. Characters are allowed to be wrong about themselves. What you say now is where you're starting from — five sessions from now, you'll see which of these held and which broke under pressure. That's the story.*
+
+---
+
 ## Three Questions to Answer Before Session 1
 
-1. **Why is your character in Varenhold right now?** This doesn't need to be complicated. "I was hired" is fine. "I followed a rumor" is fine. But know the answer.
+*These are the short version if you don't have time for the full interview. Bring the answers to Session 1.*
 
-2. **What does your character want from the sun returning?** Everyone in Varenhold has an opinion on the twilight and what it would mean for it to end. So does your character, even if they just arrived. Is it hope? Commerce? Curiosity? Something more personal?
+1. **Why is your character in Varenhold right now?** "I was hired" is fine. "I followed a rumor" is fine. Know the answer.
 
-3. **What is one thing your character believes so firmly they've never seriously questioned it?** The campaign will question it. You should know what it is going in.
+2. **What does your character want from the sun returning?** Hope? Commerce? Something more personal? Everyone in Varenhold has an answer. So does yours.
 
-Bring these answers to Session 1. You don't have to share them, but having them will give you something to play against.
+3. **What is one thing your character believes so firmly they've never seriously questioned it?** The campaign will question it. Know what it is before it happens.
