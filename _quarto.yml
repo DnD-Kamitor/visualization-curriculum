@@ -36,10 +36,12 @@ book:
         - ai-tools.md
         - gm-tools.md
         - deep-archive.md
+        - knowledge-tiers.md
         - appendix.md
     - part: "Player's Companion"
       chapters:
         - discovery-quests.md
+        - crafting-and-professions.md
         - session-recording.md
 
 format:
