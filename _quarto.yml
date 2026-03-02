@@ -46,6 +46,7 @@ book:
         - crafting-and-professions.md
         - shops.md
         - travel.md
+        - tracker.md
         - session-recording.md
 
 format:
