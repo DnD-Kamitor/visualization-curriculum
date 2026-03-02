@@ -48,6 +48,14 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | Protect the Dawnborn openly | She distances herself; still pays, but no longer an ally |
 | Ask her what *she* would sacrifice | She goes silent. Then: "That's not a question with a useful answer." |
 
+**Interaction Checks**
+
+| Check | DC | Reveals |
+|-------|----|---------|
+| Insight (first meeting) | 13 | She is already certain of the ritual's outcome — she wants confirmation, not discovery. The commission is political cover as much as investigation. |
+| Insight (after trust) | 15 | She knows more about the ritual's cost than she admits. The fragment she references has been read, reread, and partially understood. She is hoping the players return with a different answer than the one she already has. |
+| Investigation (Chancellor's Hall office) | 15 | A locked drawer contains a partial transcript in Corven's notation, annotated in the Chancellor's hand. Three words are circled and underlined: "willing participants only." |
+
 </details>
 
 ---
@@ -98,6 +106,14 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | Reassure him it's not his fault | He cries. Then tells them everything. |
 | Expose him to the Council | He panics; flees the city; can be retrieved but will be permanently fragile |
 | Ask what he would choose | "I am not the one who should choose. That's why I've been waiting for you." |
+
+**Interaction Checks**
+
+| Check | DC | Reveals |
+|-------|----|---------|
+| Insight (first meeting) | 13 | He is not confused — he is withholding. The hesitation and qualifications are a performance of uncertainty from a man who knows exactly what he knows. |
+| Insight (after trust) | 15 | The guilt is the thing. He found the truth eleven years ago, made a choice to say nothing, and has been paying for it since. Whatever absolution he's looking for, it isn't from the players — it's from the people he protected by staying silent. |
+| Investigation (Archive stacks) | 14 | A section of the notation key contains a small asterisk beside one symbol. Following it leads to a shelf that doesn't appear in the main catalog. One bound volume, plain cover, nothing on the spine. |
 
 </details>
 
@@ -150,6 +166,14 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | Expose him to the Council | Martyrdom. He expected it. The Restorers become ungovernable. |
 | Ask if the Dawnborn should choose for themselves | *(Long silence.)* "That is the question I can't answer." |
 
+**Interaction Checks**
+
+| Check | DC | Reveals |
+|-------|----|---------|
+| Insight (first meeting) | 13 | The serenity is real, but it is organized grief — grief worked through until it became a decision. He is not at peace with the world. He is at peace with his conclusion. |
+| Insight (after trust) | 16 | The movement is personal. The question "who did you lose?" would land. It wouldn't be answered. But the silence afterward would confirm it. |
+| Investigation (Restorer compound) | 14 | In Edoran's study: a girl's prayer cord on the window frame, the kind given at Auris coming-of-age. Faded, at least a decade old. The name woven into the border reads "Annem." |
+
 </details>
 
 ---
@@ -200,6 +224,14 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | Help her protect her district during crisis | Strong ally; will go to significant lengths for them |
 | Pressure her to choose quickly | She withdraws; makes the decision on her own timeline |
 
+**Interaction Checks**
+
+| Check | DC | Reveals |
+|-------|----|---------|
+| Insight (first meeting) | 12 | She has already decided something. The warmth is genuine; so is the certainty. She is not deliberating — she is waiting to act on a decision already made. |
+| Insight (after trust) | 14 | She is afraid for everyone except herself. The fear is entirely outward-directed. She has not spent meaningful time worrying about what the ritual means for her specifically. |
+| Investigation (Sera's patrol station) | 13 | A carved wooden calendar on her desk has forty-odd days marked. The marks started eleven years ago and are consistent. If asked: "The first time someone thanked me after a ritual healing. I count from then." |
+
 </details>
 
 ---
@@ -245,6 +277,14 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | Deceive him | He knows immediately. Cold thereafter. |
 | Give him time to decide | Deep trust. He will advocate for the players to others. |
 | Rush him or pressure him | Formal refusal to engage; will use legal means to delay if necessary |
+
+**Interaction Checks**
+
+| Check | DC | Reveals |
+|-------|----|---------|
+| Insight (first meeting) | 14 | He is not neutral — he is calculating. The careful, measured speech is precision, not fairness. He is working through a problem in real time and the problem is not easy. |
+| Insight (after trust) | 16 | He has already done the math. The surge-phase asymmetry means five specific Dawnborn can effectively shelter the weaker five if the stronger ones choose first. He hasn't told anyone because confirming this would also confirm the sacrifice. |
+| Investigation (Tomas's Highmark office) | 14 | A locked notebook (visible pages through the cover) contains a branching decision tree. One branch: "all ten, confirmed." Another: "five, with margin." A third, in different ink and later: "who decides the margin?" |
 
 </details>
 
@@ -295,6 +335,14 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | Find an alternative that lets her live | She will do *anything* within reason to support it |
 | Tell her about Sera's willingness | She is conflicted; this is the crack in her certainty |
 
+**Interaction Checks**
+
+| Check | DC | Reveals |
+|-------|----|---------|
+| Insight (first meeting) | 14 | She has made her peace with the ritual's cost in private. The professional exhaustion is real, but underneath it she has already decided and is waiting for everyone else to catch up. |
+| Insight (after trust) | 15 | The one thing she hasn't processed is her daughter. Everything else has been worked through. She can talk about dying in the abstract. She cannot talk about Mira. |
+| Investigation (Lowmark Healing House, Lira's treatment room) | 13 | One private shelf holds personal items: a child's drawing, a folded letter sealed and addressed in a child's handwriting. The envelope has not been opened. |
+
 </details>
 
 ---
@@ -344,6 +392,14 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | Tell him about the inversion pathway | The only thing in the campaign that genuinely surprises him. Long pause. Then: "That changes it." |
 | Ask about the hum he hears | He tells them. This is a significant trust moment. |
 
+**Interaction Checks**
+
+| Check | DC | Reveals |
+|-------|----|---------|
+| Insight (first meeting) | 12 | He is at peace with something he has already decided. The question is not whether — it is when. He is waiting for the world to create the right moment. |
+| Insight (after trust) | 14 | He has been hearing something — a low hum — for over a year. He thinks it is the ritual energy inside him, and he thinks it has been getting louder. He hasn't told anyone. |
+| Investigation (Davin's tavern room) | 13 | A small notebook contains dated entries — not decisions, but observations of how he feels on different days. The entries grow shorter over time. The last one reads: "Still waiting. Still ready." |
+
 </details>
 
 ---
@@ -386,6 +442,14 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | Argue theology with her | She engages seriously; respects intellectual engagement |
 | Try to change her mind | She listens completely and then: "I've considered that. I've considered that for six months." End of topic. |
 | Discover she told Edoran yes months ago | She acknowledges it without shame: "Yes. I wanted to be sure I wasn't deciding in panic." |
+
+**Interaction Checks**
+
+| Check | DC | Reveals |
+|-------|----|---------|
+| Insight (first meeting) | 11 | She is at peace. Not the peace of ignorance — the peace of someone who has examined a question fully and found an answer she can hold. |
+| Insight (after trust) | 13 | She told Brother Edoran yes months ago and has not announced it publicly. She is waiting for someone to ask whether her consent was genuine rather than assumed. No one has asked yet. |
+| Investigation (Ysel's corner of the Auris Cathedral) | 12 | Her prayer space contains a ritual candle with six names written on the base — "so they can find their way." One name is her own. The candle has burned down a quarter of the way. |
 
 </details>
 
@@ -430,6 +494,14 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | Ask about the Spire subbasement | She shows them the maps. DC 15 Arcana to determine what the space is for. |
 | Put her in a situation where she must choose quickly | She freezes briefly; she needs time to map it. Give her 60 seconds. |
 
+**Interaction Checks**
+
+| Check | DC | Reveals |
+|-------|----|---------|
+| Insight (first meeting) | 13 | She is assessing whether the players think clearly under pressure. She maps people the way she maps buildings — noting load-bearing elements and structural weaknesses. She has not yet decided whether the players are reliable. |
+| Insight (after trust) | 15 | Her conditional position is specific: she wants proof that the ritual's five-or-ten choice has been modeled correctly. The math matters to her more than the morality, because to her the morality follows from the math. |
+| Investigation (Orya's mapping studio) | 15 | A secondary map portfolio labeled "Spire — internal vs. external" documents a subbasement level the Spire has never acknowledged. External and internal floor areas don't match by about 800 square feet. |
+
 </details>
 
 ---
@@ -472,6 +544,14 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | Tell him what to decide | He shuts down; makes the decision alone and doesn't share it |
 | Connect him with Davin (who is calm about this) | Davin's influence is the most stabilizing; consider this player agency |
 | Expose his wavering to Edoran | He makes a decision immediately under pressure; it may not be the decision he'd have made with time |
+
+**Interaction Checks**
+
+| Check | DC | Reveals |
+|-------|----|---------|
+| Insight (first meeting) | 12 | He is doing the work while he decides. The uncertainty is not passive — he is actively gathering information by staying in the logistics of the crisis, watching what the resources tell him. |
+| Insight (after trust) | 14 | He is closer to yes than he lets on. What would tip him: confirmation that the partial ritual genuinely helps, or proof that waiting means worse outcomes for the people he moves supplies to. |
+| Investigation (Cormac's dockside workspace) | 13 | A hand-drawn supply map on his wall shows inflow vs. consumption for the Lowmark. The projections extend eighteen months. A line marks where supply falls below minimum. It is not far off. |
 
 </details>
 
@@ -516,6 +596,14 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | Let him test the claims on his own | He comes back 24 hours later with results; he's more certain than the players |
 | Discover he cried and keep it private | +2 trust; he does not forget this |
 
+**Interaction Checks**
+
+| Check | DC | Reveals |
+|-------|----|---------|
+| Insight (first meeting) | 13 | He has already made his decision — the "reluctant no" is not undecided. It is the position of someone who has calculated that no one has the right to ask this of him, and is tired of being asked. |
+| Insight (after trust) | 15 | The decision is about his children. He has two young children in the Dawnhalls. He has been running the numbers on what the ritual's outcome means for them specifically, and he does not trust anyone else's projections. |
+| Investigation (Aldric's dock office) | 13 | A shipping manifest on the wall has a secondary use: one corner is a personal calendar tracking days until his eldest child's seventh birthday. The ritual timeline would fall before or after it, depending on events. |
+
 </details>
 
 ---
@@ -559,6 +647,14 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | Ask him to help with the Archive theft investigation | He cooperates fully; this is overdue |
 | Involve him in community-level decisions | He's excellent at this and knows it |
 
+**Interaction Checks**
+
+| Check | DC | Reveals |
+|-------|----|---------|
+| Insight (first meeting) | 13 | He is assessing whether the players are people who judge on the basis of past or present. He has worked for fifteen years to be the person he is now. He is watching whether that matters to the players. |
+| Insight (after trust) | 15 | There is an old crime he is still waiting to answer for. He doesn't know the full shape of it. He knows it involves the Archive and the Compact, and he has been waiting fifteen years for the moment when it matters again. |
+| Investigation (Nin's Dawnhall coordination office) | 14 | A locked box beneath his desk contains a folded receipt for a transaction he doesn't fully understand — paid to deliver a package from the Archive, sealed, to an address that no longer exists. The date is fifteen years ago. |
+
 </details>
 
 ---
@@ -586,6 +682,14 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 **Personality:** Cautious. Thoughtful. Overwhelmed.
 
 **Approach:** Do not rush her. She will come to Varenhold if players give her a reason to trust that she will not be coerced. The best approach is to tell her everything, give her the full truth, and then let her sit with it. She is not afraid of the decision. She is afraid of being pushed into it before she's ready.
+
+**Interaction Checks**
+
+| Check | DC | Reveals |
+|-------|----|---------|
+| Insight (first meeting) | 12 | She is frightened, but the fear is specific — it is about something she knows, not generalized anxiety. She is hiding *from* something, not just hiding. |
+| Insight (after trust) | 14 | She has been contacted by the Reckoning. She said no. She doesn't know whether that refusal was recorded or whether she is still considered a target. |
+| Investigation (Petra's hiding place in Greenhollow) | 14 | Hidden in a wall recess: a folded letter with a broken Reckoning seal, addressed to her. She wrote a single word on the outside in response: "No." |
 
 </details>
 
@@ -636,6 +740,14 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | Use her information without acknowledgment | She remembers; does not share again |
 | Investigate the waterway data she has been sitting on | She gives them the complete data and is relieved someone is dealing with it |
 
+**Interaction Checks**
+
+| Check | DC | Reveals |
+|-------|----|---------|
+| Insight (first meeting) | 12 | She is more worried than she is showing. The professional composure is genuine, but she is carrying numbers she has not shared publicly, and the weight of those numbers is visible if you know what to look for. |
+| Insight (after trust) | 14 | The real numbers are significantly worse than the public report. She has been holding them back because releasing them would cause panic, and panic would kill people faster than the grey sickness itself. |
+| Investigation (Lowmark Healing House, records room) | 14 | A secondary ledger labeled "Projection" contains population-level estimates eighteen months out. The bottom line: Stage-3 onset doubles within two years without intervention. The cover reads, in Sevra's handwriting: "This stays here." |
+
 </details>
 
 ---
@@ -659,6 +771,14 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | **Goal** | Verify her transfer method in time to be a real option; she is acutely aware that her solution requires the Cathedral and that the Cathedral's politics are a separate problem |
 | **Attitude** | Toward players: collegial, professional; she respects competence and wastes no time on anything else |
 | **Secret** | Her mortality estimate for the ritual's destructive path (presented to players in Session 3 as 35-55%, not the stated 20-30%) also applies to her transfer method: a 15-20% probability that one or two Dawnborn anchors become unstable during transfer and the process completes destructively. She knows this and has been trying to resolve it. She has not yet succeeded. |
+
+**Interaction Checks**
+
+| Check | DC | Reveals |
+|-------|----|---------|
+| Insight (first meeting) | 14 | She is interested in the players as variables, not as people. Her engagement is genuine but impersonal — she wants to know what they've found because it affects her calculations. |
+| Insight (after trust) | 15 | She is afraid of being wrong more than she is afraid of the ritual failing. Her transfer method is her best work. If it fails, she loses something larger than the research. |
+| Investigation (Isolde's Spire lab) | 15 | Under the main research table: a second set of notes separate from the official Spire copies. These include a mortality estimate she has not shared: 35-55% for the destructive path. The official estimate is listed as "acceptable range." |
 
 </details>
 
@@ -701,6 +821,14 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | Share Keseph's evidence with her | She will act on it, in her own time, in her own way |
 | Ask what she needs to make her decision | She tells them exactly; it is actionable |
 
+**Interaction Checks**
+
+| Check | DC | Reveals |
+|-------|----|---------|
+| Insight (first meeting) | 14 | She is not evaluating the players' argument — she is evaluating whether the players are the kind of people who will bring her accurate information. She has found inaccurate information coming from almost everyone so far. |
+| Insight (after trust) | 15 | She has documentation on Keseph's Solennite funding that she has been sitting on for two years. She deprioritized it when the Dawnborn crisis escalated. She is waiting for someone trustworthy to hand it to. |
+| Investigation (Maret's Council office) | 15 | A locked research folder labeled "Spire Oversight — Theoretical Division" contains payment records she was building into a formal case. The case is complete. It has never been filed. |
+
 </details>
 
 ---
@@ -720,6 +848,14 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | **Goal** | See the sun return before another Parish child grows up without knowing what it looks like |
 | **Attitude** | Toward players: assessing whether they're more of the same or actually different |
 | **Secret** | He watched his son stop eating three months ago — not from starvation, from grey sickness's late-stage apathy. His son is fourteen. The medical prognosis is not good. He has not told anyone in Varenhold because he is afraid of what it will do to his ability to advocate rationally. |
+
+**Interaction Checks**
+
+| Check | DC | Reveals |
+|-------|----|---------|
+| Insight (first meeting) | 12 | The impatience is a shield. Underneath is grief — the Parishes are dying in slow motion and he has been carrying that information into rooms full of people who don't want to know it. |
+| Insight (after trust) | 14 | He has undisclosed instructions from the Parish elders: if the ritual is performed without Parish consent being sought, the Parishes will pursue formal separation from Varenhold's jurisdiction. He is holding this as a last resort. |
+| Investigation (Harrow's lodgings) | 14 | A bundle of correspondence from Parish elders, marked urgent. Grain stores in three villages have fallen below the winter threshold. The date is two weeks ago. He has been carrying this for two weeks without telling anyone. |
 
 </details>
 
@@ -742,6 +878,14 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | **Secret** | Her theory about the "sympathetic void" — the correct theory the Spire dismissed — was not developed entirely by her. She developed it in collaboration with a Spire Scholar who died fifteen years ago. His name is not on the work. She does not know if this matters. |
 
 **The Five Oral Histories:** In the deep-archive.md chapter, all five Ashfen Oral Histories are documented. Erem shares them in order when players demonstrate genuine listening. Do not rush the sequence — each history lands differently depending on what players already know.
+
+**Interaction Checks**
+
+| Check | DC | Reveals |
+|-------|----|---------|
+| Insight (first meeting) | 13 | She is not dismissive of the players' mission — she is skeptical of their context. She has information the Spire has been ignoring for twenty years and is checking whether these outsiders are different from the last ones. |
+| Insight (after trust) | 14 | The Ashfen Clans have oral records documenting the ritual's effect on the local ley fields. The twilight is not just reducing sunlight — it is actively degrading the marsh ecosystem. This is a crisis the city does not know about. |
+| Investigation (Erem's field survey papers) | 14 | Hand-drawn maps show lux-field measurements across the marsh over three decades. The trend lines converge. The date of convergence — the point of irreversibility — is written at the bottom: "Year 53 or Year 54." |
 
 </details>
 
@@ -771,6 +915,14 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 
 *On what he heard:*
 > "I don't know what the 'contingency' is. I know it was being coordinated between Harran's intelligence and someone in the Council who isn't supposed to know Harran exists. That's the part I can't explain and can't stop thinking about."
+
+**Interaction Checks**
+
+| Check | DC | Reveals |
+|-------|----|---------|
+| Insight (first meeting) | 12 | He is trying very hard to be precise about what he knows versus what he interpreted. This is either what telling the truth looks like for him, or a very good performance of it. The players can't be certain yet. |
+| Insight (after trust) | 14 | He is genuinely afraid — not of the players, but of what happens if the wrong people find him before he can give this information to someone credible. He has been sitting on it for two weeks and it is costing him. |
+| Investigation (Renn's room at the Wanderer's Rest) | 13 | A folded paper under the mattress contains a partial transcript of the conversation he overheard, written from memory in careful order. At the bottom: "I don't know who the aide was. I would know the voice again." |
 
 </details>
 
