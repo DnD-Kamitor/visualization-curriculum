@@ -16,6 +16,7 @@ book:
     - part: "Player's Guide"
       chapters:
         - player-guide.md
+        - characters.md
         - world-lore.md
         - pantheon.md
         - factions-guide.md
